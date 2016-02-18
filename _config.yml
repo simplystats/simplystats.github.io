@@ -5,7 +5,7 @@ permalink:           pretty
 
 # Setup
 title:               Simply Statistics
-tagline:             'A Jekyll theme'
+tagline:             'A blog by <a href="https://twitter.com/rafalab">Rafa Irizarry<a>,<a href="https://twitter.com/rdpeng">Roger Peng<a>, and <a href="https://twitter.com/jtleek">Jeff Leek<a>'
 description:         'A blog by <a href="https://twitter.com/rafalab">Rafa Irizarry<a>,<a href="https://twitter.com/rdpeng">Roger Peng<a>, and <a href="https://twitter.com/jtleek">Jeff Leek<a>'
 url:                 http://simplystats.github.io
 baseurl:             ''
