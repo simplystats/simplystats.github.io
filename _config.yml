@@ -1,3 +1,8 @@
+# Dependencies
+gems:                [jekyll-paginate]
+markdown:            redcarpet
+highlighter:         pygments		
+
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
@@ -5,8 +10,8 @@ permalink:           pretty
 
 # Setup
 title:               Simply Statistics
-tagline:             'A blog by <a href="https://twitter.com/rafalab">Rafa Irizarry<a>,<a href="https://twitter.com/rdpeng">Roger Peng<a>, and <a href="https://twitter.com/jtleek">Jeff Leek<a>'
-description:         'A blog by <a href="https://twitter.com/rafalab">Rafa Irizarry<a>,<a href="https://twitter.com/rdpeng">Roger Peng<a>, and <a href="https://twitter.com/jtleek">Jeff Leek<a>'
+tagline:             'https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/public/sslogo.png'
+description:         ''
 url:                 http://simplystats.github.io
 baseurl:             ''
 paginate:            10
