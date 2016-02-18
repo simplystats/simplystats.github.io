@@ -5,7 +5,7 @@ date: 2016-02-17T15:47:23+00:00
 author: Jeff Leek
 layout: post
 guid: http://simplystatistics.org/?p=4664
-comments: True
+comments: true
 permalink: /2016/02/17/non-tidy-data/
 pe_theme_meta:
   - 'O:8:"stdClass":2:{s:7:"gallery";O:8:"stdClass":3:{s:2:"id";s:2:"-1";s:5:"width";s:0:"";s:6:"height";s:0:"";}s:5:"video";O:8:"stdClass":1:{s:2:"id";s:2:"-1";}}'
