@@ -9,7 +9,7 @@ permalink:           pretty
 # Setup
 title:               Simply Statistics
 tagline:             'A statistics blog by <a href="https://twitter.com/rafalab">Rafa Irizarry<a>, <a href="https://twitter.com/rdpeng">Roger Peng<a>, and <a href="https://twitter.com/jtleek">Jeff Leek<a>'
-description:         '<img src="https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/public/sslogo.png" height=20 </img>. </br> Follow us on twitter <a href="https://twitter.com/simplystats">@simplystats</a>'
+description:         '<img src="https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/public/sslogo.png" height=40 </img> </br> Follow us on twitter <a href="https://twitter.com/simplystats">@simplystats</a>'
 url:                 http://simplystats.github.io
 baseurl:             ''
 paginate:            10
