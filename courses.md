@@ -17,15 +17,15 @@ The authors of this blog have created a large number of massive online open cour
 
 ### Data Science Specialization on Coursera
 
-This is a series of 9 classes that teach the entire data science process. The classes were built by [Jeff Leek](http://www.jtleek.com), [Roger Peng](http://www.biostat.jhsph.edu/~rpeng/), [Brian Caffo](http://www.bcaffo.com). You can sign up here:  https://www.coursera.org/specialization/jhudatascience/1
+This is a series of 9 classes that teach the entire data science process. The classes were built by [Jeff Leek](http://www.jtleek.com), [Roger Peng](http://www.biostat.jhsph.edu/~rpeng/), [Brian Caffo](http://www.bcaffo.com). You can [sign up through Coursera](https://www.coursera.org/specialization/jhudatascience/1). 
 
 
 ### Data analysis for life sciences
 
-This is a series of 7 classes that teach R and statistics for health sciences applications, with a particular focus on genomic technologies. The classes were built by [Rafael Irizarry](http://rafalab.dfci.harvard.edu/) and [Mike Love](http://mikelove.github.io/). You can find and sign up for all the classes here: http://genomicsclass.github.io/book/pages/classes.html. 
+This is a series of 7 classes that teach R and statistics for health sciences applications, with a particular focus on genomic technologies. The classes were built by [Rafael Irizarry](http://rafalab.dfci.harvard.edu/) and [Mike Love](http://mikelove.github.io/). You can find and sign up for all the classes [on their web site](http://genomicsclass.github.io/book/pages/classes.html).
 
 
 ### Genomic Data Science Specialization on Coursera
 
-This is a 7 course sequence focused on teaching tools for analyzing genomic data. The classes were built by [Jeff Leek](http://www.jtleek.com), [Steven Salzberg](http://salzberg-lab.org/), [James Taylor](http://jamestaylor.org/), [Ela Pertea](http://ccb.jhu.edu/people/mpertea/), [Liliana Florea](http://ccb.jhu.edu/people/florea/), [Ben Langmead](http://www.langmead-lab.org/), and [Kasper Hansen](http://www.hansenlab.org/). You can find and sign up for all the classes here: https://www.coursera.org/specializations/genomics.
+This is a 7 course sequence focused on teaching tools for analyzing genomic data. The classes were built by [Jeff Leek](http://www.jtleek.com), [Steven Salzberg](http://salzberg-lab.org/), [James Taylor](http://jamestaylor.org/), [Ela Pertea](http://ccb.jhu.edu/people/mpertea/), [Liliana Florea](http://ccb.jhu.edu/people/florea/), [Ben Langmead](http://www.langmead-lab.org/), and [Kasper Hansen](http://www.hansenlab.org/). You can find and [sign up for all the classes on Coursera](https://www.coursera.org/specializations/genomics).
 
