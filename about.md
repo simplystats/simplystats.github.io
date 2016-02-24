@@ -3,7 +3,7 @@ id: 6
 title: About
 date: 2011-10-09T00:13:34+00:00
 author: admin
-layout: page
+layout: default 
 guid: http://simplystatistics.wordpress.com/?page_id=2
 dsq_thread_id:
   - 933317180
