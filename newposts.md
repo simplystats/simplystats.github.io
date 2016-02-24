@@ -4,7 +4,7 @@ title: Writing posts
 ---
 
 
-### Workflow for writing posts for Rafa/Jeff/Roger
+### Workflow for writing posts if your name is Rafa/Jeff/Roger
 
 To write a new post follow these guidlines. 
 
@@ -18,7 +18,7 @@ To write a new post follow these guidlines.
 6. Tweet about the post/post to Facebook/post to reddit
 
 
-### Workflow for writing posts for contributors
+### Workflow for writing posts if you are a contributor
 
 To write a new post you can either contact Roger/Jeff/Rafa first to ask if you can guest post (preferred) or just
 send a pull request (less preferred). 
