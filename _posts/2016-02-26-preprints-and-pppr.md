@@ -1,5 +1,5 @@
 ---
-title: How pre-prints and post publication review could fail
+title: Preprints are great, but post publication peer review isn't ready for prime time
 author: jeff
 layout: post
 comments: true
