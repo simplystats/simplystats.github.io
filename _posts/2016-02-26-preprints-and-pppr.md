@@ -1,5 +1,5 @@
 ---
-title: How pre-prints and post publication review could fail and what to do about it
+title: How pre-prints and post publication review could fail
 author: jeff
 layout: post
 comments: true
