@@ -3,8 +3,7 @@ layout: page
 title: Writing posts
 ---
 
-
-### Workflow for writing posts if your name is Rafa/Jeff/Roger
+# Workflow for writing posts if your name is Rafa/Jeff/Roger
 
 To write a new post follow these guidlines. 
 
@@ -18,7 +17,7 @@ To write a new post follow these guidlines.
 6. Tweet about the post/post to Facebook/post to reddit
 
 
-### Workflow for writing posts if you are a contributor
+# Workflow for writing posts if you are a contributor
 
 To write a new post you can either contact Roger/Jeff/Rafa first to ask if you can guest post (preferred) or just
 send a pull request (less preferred). 
@@ -27,7 +26,7 @@ send a pull request (less preferred).
     * The first time fork this repo https://github.com/simplystats/simplystats.github.io
     * After that do `git pull origin master` to make sure you get all the new posts from others
 2. Go to the folder *_posts*
-3. Copy the example post: to a new file with the format:  `YYYY-MM-DD-a-relevant-title-separated-by-hyphens.md`
+3. Copy the example post: https://github.com/simplystats/simplystats.github.io/tree/master/public/2016-03-19-examplepost.md to a new file with the format:  `YYYY-MM-DD-a-relevant-title-separated-by-hyphens.md`
 4. Write your post in markdown. 
 5. Add a line at the beginning that says: _Editor's note this is a guest post by ..._ with your information. 
 5. Add, commmit, and push your changes to your forked branch
