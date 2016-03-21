@@ -5,7 +5,7 @@ layout: post
 comments: true
 ---
 
-_Editor's note: This post is a guest post by [Andrew Jaffe](aejaffe.com)_
+_Editor's note: This post is a guest post by [Andrew Jaffe](http://aejaffe.com)_
 
 "How do you get to Carnegie Hall? Practice, practice, practice." ("The Wit Parade" by E.E. Kenyon on March 13, 1955)
 
