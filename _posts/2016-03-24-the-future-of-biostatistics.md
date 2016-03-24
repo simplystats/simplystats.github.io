@@ -1,5 +1,5 @@
 ---
-title: Preprints are great, but post publication peer review isn't ready for prime time
+title: The future of biostatistics
 author: jeff
 layout: post
 comments: true
