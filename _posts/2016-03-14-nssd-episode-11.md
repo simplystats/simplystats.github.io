@@ -1,6 +1,6 @@
 ---
 title: Not So Standard Deviations Episode 11 - Start and Stop
-author: Roger
+author: roger
 layout: post
 comments: true
 ---
