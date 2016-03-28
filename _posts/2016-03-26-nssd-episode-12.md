@@ -23,6 +23,8 @@ Show notes:
 
 * [Jeff Leek on why he doesn’t use ggplot2](http://goo.gl/am6I3r)
 
+* David Robinson on [why he uses ggplot2](http://varianceexplained.org/r/why-I-use-ggplot2/)
+
 * [Nathan Yau’s post comparing ggplot2 and base graphics](http://goo.gl/6iEB2I)
 
 * [Biostatistics Medium post](https://goo.gl/YuhFgB)
