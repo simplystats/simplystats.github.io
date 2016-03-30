@@ -1,5 +1,5 @@
 ---
-title: How to create an AI startup: convince some humans to be your training set
+title: How to create an AI startup - convince some humans to be your training set
 author: jeff
 layout: post
 comments: true
