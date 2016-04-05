@@ -1,8 +1,8 @@
 ---
 title: Companies are Countries, Academia is Europe
-date: 2016-04-11
 author: roger
 layout: post
+comments: true
 ---
 
 I've been thinking a lot recently about the practice of data analysis in different settings and how the environment in which you work can affect the view you have on how things should be done. I've been working in academia for over 12 years now. I don't have any industry data science experience, but long ago I worked as a software engineer at [two](http://www.northropgrumman.com/Pages/default.aspx) [companies](http://kencast.com). Obviously, my experience is biased on the academic side.
@@ -24,3 +24,5 @@ This contrast between companies and academia got me thinking about the [Theory o
 I think collaborating on data analysis is a high transaction cost activity. Companies have an advantage in this realm to the extent that they can hire lots of data scientists to work in-house. Academics that are well-funded and have large labs can often hire a data analyst to work for them. This is good because it makes a well-trained person available at low transaction cost, but this setup is the exception. PIs with smaller labs barely have enough funding to do their experiments and so either have to analyze the data themselves (for which they may not be appropriately trained) or collaborate with someone willing to do it. Large academic centers often have research cores that provide data analysis services, but this doesn't change the fact that data analysis that occurs "outside the company" dramatically increases the transaction costs of doing the research. Because data analysis is a highly iterative process, each time you have to go back in forth with an outside entity, the costs go up.
 
 I think it's possible to see a time when data analysis can effectively be made external. I mean, Apple used to manufacture all its products, but has shifted to contract manufacturing to great success. But I think we will have to develop a much better understanding of the data analysis process before we see the transaction costs start to go down.
+
+
