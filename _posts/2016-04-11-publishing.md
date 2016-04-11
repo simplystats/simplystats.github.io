@@ -5,7 +5,7 @@ layout: post
 comments: true
 ---
 
-_Editor's note - This is a chapter from my book [How to be a modern scientist](https://leanpub.com/modernscientist) where I talk about some of the tools and techniques that scientists have available to them now that they didn't before_
+_Editor's note - This is a chapter from my book [How to be a modern scientist](https://leanpub.com/modernscientist) where I talk about some of the tools and techniques that scientists have available to them now that they didn't before._
 
 ## Publishing - what should I do and why? 
 
