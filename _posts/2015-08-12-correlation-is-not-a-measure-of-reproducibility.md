@@ -51,7 +51,7 @@ To someone basing their definition of correlation on the current common language
 
 This tells us that correlation summarizes the variability of _d _relative to the variability of _x_. Because of the wide range of gene expression values we observe in practice, the standard deviation of _x_ can easily be as large as 3 (variance is 9). This implies we expect to see correlations as high as 1/sqrt(1+1/9) = 0.95, despite the lack of reproducibility when comparing _x _to _y_.
 
-Note that using Spearman correlation does not fix this problem. A Spearman correlation of 1 tells us that the ranks of _x _and _y _are preserved, yet doest not summarize the actual differences. The problem comes down to the fact that we care about the variability of _d _and correlation, Pearson or Spearman, does not provide an optimal summary. While correlation relates to the preservation of ranks, a much more appropriate summary of reproducibly is the distance between _x_ and _y_ which is related to the standard deviation of the differences _d_. A very simple R command you can use to generate this summary statistic is:
+Note that using Spearman correlation does not fix this problem. A Spearman correlation of 1 tells us that the ranks of _x _ and _y _ are preserved, yet doest not summarize the actual differences. The problem comes down to the fact that we care about the variability of _d_ and correlation, Pearson or Spearman, does not provide an optimal summary. While correlation relates to the preservation of ranks, a much more appropriate summary of reproducibly is the distance between _x_ and _y_ which is related to the standard deviation of the differences _d_. A very simple R command you can use to generate this summary statistic is:
 
 <pre>sqrt(mean(d^2))</pre>
 
