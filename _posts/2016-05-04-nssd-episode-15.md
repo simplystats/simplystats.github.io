@@ -13,11 +13,13 @@ that I can actually use (besides email), but am open to suggestions
 (from students).
 
 If you have questions you’d like us to answer, you can send them to
-nssdeviations @ gmail.com or tweet us at @NSSDeviations.
+nssdeviations @ gmail.com or tweet us at [@NSSDeviations](https://twitter.com/nssdeviations).
 
 [Subscribe to the podcast on iTunes](https://itunes.apple.com/us/podcast/not-so-standard-deviations/id1040614570).
 
 Please [leave us a review on iTunes](https://itunes.apple.com/us/podcast/not-so-standard-deviations/id1040614570)!
+
+Support us through our [Patreon page](https://www.patreon.com/NSSDeviations?ty=h).
 
 Show notes:
 
