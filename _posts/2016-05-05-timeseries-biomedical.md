@@ -55,7 +55,6 @@ Here's a quick example from my work in air pollution and mortality. The data are
 
 
 ```
-
 Call:
 lm(formula = death ~ pm10, data = ds)
 
@@ -76,7 +75,7 @@ F-statistic: 6.368 on 1 and 5112 DF,  p-value: 0.01165
 PM10 appears to be positively associated with mortality, but when we look at the autocorrelation function of the residuals, we see
 
 
-![](https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/2016-05-05-timeseries-biomedical_files/figure-html/unnamed-chunk-3-1.png)
+![ACF1](https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/2016-05-05-timeseries-biomedical_files/figure-html/unnamed-chunk-3-1.png)
 
 
 If we see a seasonal-like pattern in the auto-correlation function, then that means there's a seasonal pattern in the residuals as well. Not good.
@@ -85,7 +84,6 @@ But okay, we can just model the seasonal component with an indicator of the seas
 
 
 ```
-
 Call:
 lm(formula = death ~ season + pm10, data = ds)
 
@@ -110,7 +108,7 @@ Note that the coefficient for PM10, the coefficient of real interest, gets a lit
 
 When we look at the residuals now, we see
 
-![](https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/2016-05-05-timeseries-biomedical_files/figure-html/unnamed-chunk-5-1.png)
+![ACF2](https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/2016-05-05-timeseries-biomedical_files/figure-html/unnamed-chunk-5-1.png)
 
 The seasonal pattern is gone, but we see that there's positive autocorrelation at seemingly long distances (~100s of days). This is usually an indicator that there's some sort of long-term trend in the data. Since we only care about the day-to-day changes in PM10 and mortality, it would make sense to remove any such long-term trend. I can do that by just including the date as a linear predictor.
 
@@ -141,14 +139,14 @@ F-statistic:   156 on 5 and 5108 DF,  p-value: < 2.2e-16
 
 Now we can look at the autocorrelation function one last time.
 
-![](https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/2016-05-05-timeseries-biomedical_files/figure-html/unnamed-chunk-7-1.png)
+![ACF3](https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/2016-05-05-timeseries-biomedical_files/figure-html/unnamed-chunk-7-1.png)
 
 
 The ACF trails to zero reasonably quickly now, but there's still some autocorrelation at short lags up to about 15 days or so. 
 
 Now we can engage in some traditional time series modeling. We might want to model the residuals with an auto-regressive model over order *p*. What should *p* be? We can check by looking at the partial autocorrelation function (PACF). 
 
-![](https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/2016-05-05-timeseries-biomedical_files/figure-html/unnamed-chunk-8-1.png)
+![PACF](https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/2016-05-05-timeseries-biomedical_files/figure-html/unnamed-chunk-8-1.png)
 
 The PACF seems to suggest we should fit an AR(6) or AR(7) model. Let's use an AR(6) model and see how things look. We can use the `arima()` function for that.
 
@@ -193,3 +191,4 @@ Ultimately, I've found that in many biomedical and public health applications, t
 2. Focus separately on the **fixed** and **random** parts of the model. In particular, work with the fixed part of the model first, incorporating as much information as you can that will explain variability in your outcome.
 
 3. Model the random part appropriately, after incorporating as much as you can into the fixed part of the model. Classical time series models may be of use here, but also simple robust variance estimators may be sufficient. 
+
