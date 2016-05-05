@@ -76,7 +76,7 @@ F-statistic: 6.368 on 1 and 5112 DF,  p-value: 0.01165
 PM10 appears to be positively associated with mortality, but when we look at the autocorrelation function of the residuals, we see
 
 
-![](https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/2016-05-05-timeseries-biomedical_files/figure-html/unnamed-chunk-3-1.png/2016-05-05-timeseries-biomedical_files/figure-html/unnamed-chunk-3-1.png)
+![](https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/2016-05-05-timeseries-biomedical_files/figure-html/unnamed-chunk-3-1.png)
 
 
 If we see a seasonal-like pattern in the auto-correlation function, then that means there's a seasonal pattern in the residuals as well. Not good.
