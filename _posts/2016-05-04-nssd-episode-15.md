@@ -12,6 +12,13 @@ science projects. To date, I have not found a project management tool
 that I can actually use (besides email), but am open to suggestions
 (from students).
 
+If you have questions you’d like us to answer, you can send them to
+nssdeviations @ gmail.com or tweet us at @NSSDeviations.
+
+[Subscribe to the podcast on iTunes](https://itunes.apple.com/us/podcast/not-so-standard-deviations/id1040614570).
+
+Please [leave us a review on iTunes](https://itunes.apple.com/us/podcast/not-so-standard-deviations/id1040614570)!
+
 Show notes:
 
 * [Hilary’s tweet on cats](http://twitter.com/hspter/status/725411087110299649)
@@ -34,3 +41,6 @@ Show notes:
 
 * [Stitch Fix is looking for Data Scientists](http://www.stitchfix.com/careers?gh_jid=1…46?gh_jid=169746)
 
+<a href="https://soundcloud.com/nssd-podcast/nssd-episode-15-spinning-up-logistics">Download the audio for this episode.</a>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/261374684&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
