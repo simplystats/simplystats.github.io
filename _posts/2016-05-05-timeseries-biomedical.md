@@ -3,6 +3,7 @@ title: Time Series Analysis in Biomedical Science - What You Really Need to Know
 author: roger
 comments: true
 layout: post
+date: 2016-05-05
 ---
 
 For a few years now I have given a guest lecture on time series analysis in our School's *Environmental Epidemiology* course. The basic thrust of this lecture is that you should generally ignore what you read about time series modeling, either in papers or in books.  The reason is because I find much of the time series literature is not particularly helpful when doing analyses in a biomedical or population health context, which is what I do almost all the time. 
