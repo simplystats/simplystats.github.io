@@ -72,7 +72,8 @@ F-statistic: 6.368 on 1 and 5112 DF,  p-value: 0.01165
 PM10 appears to be positively associated with mortality, but when we look at the autocorrelation function of the residuals, we see
 
 
-![](2016-05-05-timeseries-biomedical_files/figure-html/unnamed-chunk-3-1.png)
+![](https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/2016-05-05-timeseries-biomedical_files/figure-html/unnamed-chunk-3-1.png/2016-05-05-timeseries-biomedical_files/figure-html/unnamed-chunk-3-1.png)
+
 
 If we see a seasonal-like pattern in the auto-correlation function, then that means there's a seasonal pattern in the residuals as well. Not good.
 
@@ -105,7 +106,7 @@ Note that the coefficient for PM10, the coefficient of real interest, gets a lit
 
 When we look at the residuals now, we see
 
-![](2016-05-05-timeseries-biomedical_files/figure-html/unnamed-chunk-5-1.png)
+![](https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/2016-05-05-timeseries-biomedical_files/figure-html/unnamed-chunk-5-1.png)
 
 The seasonal pattern is gone, but we see that there's positive autocorrelation at seemingly long distances (~100s of days). This is usually an indicator that there's some sort of long-term trend in the data. Since we only care about the day-to-day changes in PM10 and mortality, it would make sense to remove any such long-term trend. I can do that by just including the date as a linear predictor.
 
@@ -136,14 +137,14 @@ F-statistic:   156 on 5 and 5108 DF,  p-value: < 2.2e-16
 
 Now we can look at the autocorrelation function one last time.
 
-![](2016-05-05-timeseries-biomedical_files/figure-html/unnamed-chunk-7-1.png)
+![](https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/2016-05-05-timeseries-biomedical_files/figure-html/unnamed-chunk-7-1.png)
 
 
 The ACF trails to zero reasonably quickly now, but there's still some autocorrelation at short lags up to about 15 days or so. 
 
 Now we can engage in some traditional time series modeling. We might want to model the residuals with an auto-regressive model over order *p*. What should *p* be? We can check by looking at the partial autocorrelation function (PACF). 
 
-![](2016-05-05-timeseries-biomedical_files/figure-html/unnamed-chunk-8-1.png)
+![](https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/2016-05-05-timeseries-biomedical_files/figure-html/unnamed-chunk-8-1.png)
 
 The PACF seems to suggest we should fit an AR(6) or AR(7) model. Let's use an AR(6) model and see how things look. We can use the `arima()` function for that.
 
