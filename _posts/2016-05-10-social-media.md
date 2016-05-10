@@ -5,7 +5,7 @@ layout: post
 comments: true
 ---
 
-_Editor's note - This is a chapter from my book [How to be a modern scientist](https://leanpub.com/modernscientist) where I talk about some of the tools and techniques that scientists have available to them now that they didn't before._
+_Editor's note - This is a chapter from my book [How to be a modern scientist](https://leanpub.com/modernscientist) where I talk about some of the tools and techniques that scientists have available to them now that they didn't before. 50% of all royalties from the book go to support [Data Carpentry](http://www.datacarpentry.org/) to promote data science education._
 
 # Social media in science
 
