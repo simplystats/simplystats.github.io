@@ -2,6 +2,7 @@
 title: Disseminating reproducible research is fundamentally a language and communication problem
 author: roger
 layout: post
+comments: true
 ---
 
 Just about 10 years ago, I wrote my [first](http://www.ncbi.nlm.nih.gov/pubmed/16510544) of many articles about the importance of reproducible research. Since that article, one of the points I've made is that the key issue to resolve was one of tools and infrastructure. At the time, many people were concerned that people would not want to share data and that we had to spend a lot of energy finding ways to either compel or incentivize them to do so. But the reality was that it was difficult to answer the question "What should I do if I desperately want to make my work reproducible?" Back then, even if you could convince a clinical researcher to use R and LaTeX to create a [Sweave](https://en.wikipedia.org/wiki/Sweave) document (!), it was not immediately obvious where they should host the document, code, and data files.
