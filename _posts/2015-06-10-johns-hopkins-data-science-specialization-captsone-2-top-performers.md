@@ -181,9 +181,7 @@ I do not foresee this being the last time I'll be applying Data Science thinking
 
 # David J. Tagler
 
-&nbsp;
 
-[<img class="aligncenter size-medium wp-image-4098" src="http://simplystatistics.org/wp-content/uploads/2015/06/David-J.-Tagler-300x300.jpg" alt="David J. Tagler" width="300" height="300" srcset="http://simplystatistics.org/wp-content/uploads/2015/06/David-J.-Tagler-300x300.jpg 300w, http://simplystatistics.org/wp-content/uploads/2015/06/David-J.-Tagler-200x200.jpg 200w, http://simplystatistics.org/wp-content/uploads/2015/06/David-J.-Tagler.jpg 384w" sizes="(max-width: 300px) 100vw, 300px" />](http://simplystatistics.org/wp-content/uploads/2015/06/David-J.-Tagler.jpg)
 
 David is passionate about solving the world’s most important and challenging problems. His expertise spans chemical/biomedical engineering, regenerative medicine, healthcare technology management, information technology/security, and data science/analysis. David earned his Ph.D. in Chemical Engineering from Northwestern University and B.S. in Chemical Engineering from the University of Notre Dame.
 
