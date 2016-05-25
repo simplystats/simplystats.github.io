@@ -2,7 +2,7 @@
 comments: true
 author: roger
 layout: post
-title: Somtimes there's friction for a reason
+title: Sometimes there's friction for a reason
 ---
 
 Thinking about [my post on Theranos](http://simplystatistics.org/2016/05/23/update-on-theranos/) yesterday it occurred to me that one thing that's great about all of the innovation and technology coming out of places like Silicon Valley is the tremendous reduction of friction in our lives. With Uber it's much easier to get a ride because of improvement in communication and an increase in the supply of cars. With Amazon, I can get that jug of [vegetable oil](http://www.amazon.com/Wesson-Pure-100%25-Natural-Vegetable/dp/B007F1KVX8/ref=sr_1_2_a_it?ie=UTF8&qid=1464092378&sr=8-2&keywords=vegetable+oil) that I always wanted without having to leave the house, because Amazon.
