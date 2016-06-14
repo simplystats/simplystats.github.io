@@ -20,9 +20,18 @@ I think the Apple/Google dichotomy provides an interesting opportunity to talk a
 * **Google way** - Collect lots of data from users and store them on a server in the Googleplex somewhere. Then use that data to fit an enormous model that can predict when you've taken a picture of a cat. As users generate more data, bring that data back to the Googleplex and update/refine the model.
 * **Apple way** - Build a "starter model" in the Apple [Mothership](http://9to5mac.com/2015/10/05/spaceship-campus-2-drone-video-october/). As users generate data on their phones, bring the model to the phone and update the model using just their data. Bring the updated model back to the Apple Mothership and leave the user's data on the phone.
 
+Perhaps the easiest way to understand this difference is with the arithmetic mean, which is perhaps the simplest "model". There are two ways you can think about computing the arithmetic mean of a bunch of numbers $X_1, X_2, X_2,\dots,X_n$.
+
+![Google way](https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/googleway.png)
+
+
+![Apple way](https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/appleway.png)
+
 
 
 I do not do any work anywhere close to the AI field (beyond the fact that AI is related to statistics) but it 
+
+
 
 * Description at a high level because I am not an expert in AI, Deep Learning, etc.
 * Fusion science: Big Data = Prior, Small Data = Likelihood
