@@ -26,7 +26,7 @@ It would seem that traditional computer code satisfies those criteria, but I don
 
 Because of this disconnect between computer code and data analysis, I often find it difficult to understand what a data analysis is doing, even if it is coded very well. I imagine this is what programmers felt like when programming in processor-specific [assembly language](https://en.wikipedia.org/wiki/Assembly_language). Before languages like C were developed, where high-level concepts could be expressed, you had to know the gory details of how each CPU operated. 
 
-The closest thing that I can see to a solution emerging is the work that Hadley Wickham is doing with packages like [dplyr](https://github.com/hadley/dplyr) and [ggplot2](https://github.com/hadley/ggplot2). The `dplyr` package's verbs (`filter`, `arrange`, etc.) represent data manipulation concepts that are meaningful to analyts. But we still have a long way to go to cover all of data analysis in this way.
+The closest thing that I can see to a solution emerging is the work that Hadley Wickham is doing with packages like [dplyr](https://github.com/hadley/dplyr) and [ggplot2](https://github.com/hadley/ggplot2). The `dplyr` package's verbs (`filter`, `arrange`, etc.) represent data manipulation concepts that are meaningful to analysts. But we still have a long way to go to cover all of data analysis in this way.
 
 Reproducible research is important because it is fundamentally about communicating what you have done in your work. Right now we have a sub-optimal way to communicate what was done in a data analysis, via traditional computer code. I think developing a new approach to communicating data analysis could have a few benefits:
 
