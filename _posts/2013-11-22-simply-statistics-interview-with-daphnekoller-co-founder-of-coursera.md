@@ -1,6 +1,6 @@
 ---
 id: 2226
-title: Simply Statistics interview with @daphnekoller, Co-Founder of @coursera
+title: Simply Statistics interview with Daphne Koller, Co-Founder of Coursera
 date: 2013-11-22T10:13:49+00:00
 author: Roger Peng
 layout: post
@@ -17,6 +17,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
+
 Jeff and I had an opportunity to sit down with Daphne Koller, Co-Founder of [Coursera](http://coursera.org) and Rajeev Motwani Professor of Computer Science at Stanford University. Jeff and I both teach massive open online courses using the Coursera platform and it was great to be able to talk with Professor Koller about the changing nature of education today.
 
 Some highlights:
@@ -26,3 +27,5 @@ Some highlights:
   * [10:15] **On teaching**: "I think that teaching is a scholarly work as well, a kind of distillation of knowledge that has to occur in order to put together a really great course."
   * [11:19] **On teaching to the world**. "Teaching, and quality of teaching, that used to be something that you could hide away from everyone...here, we're suddenly in a world where teaching is really visible to everyone, and as a consequence, good teaching is going to be visible as a role model."
   * [13:33] **On work/life balance**: "It's been insane. It's also been somewhat surreal.... Sometimes I look at my life and I'm saying really, I mean, who's life is this?"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Mx3_9fo_aE" frameborder="0" allowfullscreen></iframe>
