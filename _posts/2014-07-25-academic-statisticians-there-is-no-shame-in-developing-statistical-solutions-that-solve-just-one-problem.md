@@ -16,6 +16,7 @@ dsq_thread_id:
   - 2872676224
 categories:
   - Uncategorized
+author: rafa
 ---
 <p dir="ltr">
   I think that the main distinction between academic statisticians and those calling themselves data scientists is that the latter are very much willing to invest most of their time and energy into solving specific problems by analyzing specific data sets. In contrast, most academic statisticians strive to develop methods that can be very generally applied across problems and data types. There is a reason for this of course:  historically statisticians have had enormous influence by developing general theory/methods/concepts such as the p-value, maximum likelihood estimation, and linear regression. However, these types of success stories are becoming more and more rare while data scientists are becoming increasingly influential in their respective areas of applications by solving important context-specific problems. The success of Money Ball and the prediction of election results are two recent widely publicized examples.
