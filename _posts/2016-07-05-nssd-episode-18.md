@@ -5,7 +5,7 @@ comments: true
 title: Not So Standard Deviations Episode 18 - Back on Planet Earth
 ---
 
-With Hilary fresh from Use R! 2016, Roger and Hilary discuss some of the highlights from the conference. Also, some followup about a previous Free Advertising and the NSSD drinking game.
+With Hilary fresh from Use R! 2016, Hilary and I discuss some of the highlights from the conference. Also, some followup about a previous Free Advertising and the NSSD drinking game.
 
 
 If you have questions you’d like us to answer, you can send them to
