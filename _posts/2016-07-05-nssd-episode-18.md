@@ -35,6 +35,8 @@ Show notes:
 
 * [Jeff Atwood “Falling Into the Pit of Success”](https://blog.codinghorror.com/falling-into-the-pit-of-success/)
 
+* [Google coLaboratory](https://research.googleblog.com/2014/08/doing-data-science-with-colaboratory.html)
+
 * [#rcatladies stickers](https://www.stickermule.com/marketplace/12936-number-rcatladies)
 
 * [Katie Mack time-lapse video](https://twitter.com/astrokatie/status/745529809669787649)
