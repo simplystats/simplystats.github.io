@@ -27,48 +27,13 @@ I [gave a talk](http://www.slideshare.net/jtleek/evidence-based-data-analysis-45
   2. Use [rmarkdown](http://rmarkdown.rstudio.com/) or [iPython notebooks](http://ipython.org/notebook.html) for your analysis code
   3. When your paper is done post it to [arxiv](http://arxiv.org/) or [biorxiv](http://biorxiv.org/).
   4. Post your data to an appropriate repository like [SRA](http://www.ncbi.nlm.nih.gov/sra) or a general purpose site like [figshare.](https://figshare.com/)
-  5. Send any software you develop to a controlled repository like [Right now reproducibility, replicability, false positive rates, biases in methods, and other problems with science are the hot topic. As I mentioned in a previous post pointing out a flaw with a scientific study is way easier to do correctly than generating a new scientific study. Some folks have noticed that right now there is a huge market for papers pointing out how science is flawed. The combination of the relative ease of pointing out flaws and the huge payout for writing these papers is helping to generate the hype around the "reproducibility crisis".
-
-I [gave a talk](http://www.slideshare.net/jtleek/evidence-based-data-analysis-45800617) a little while ago at an NAS workshop where I stated that all the tools for reproducible research exist (the caveat being really large analyses - although that is changing as well). To make a paper completely reproducible, open, and available for post publication review you can use the following approach with no new tools/frameworks needed.
-
-  1. Use [Github ](https://github.com/)for version control.
-  2. Use [rmarkdown](http://rmarkdown.rstudio.com/) or [iPython notebooks](http://ipython.org/notebook.html) for your analysis code
-  3. When your paper is done post it to [arxiv](http://arxiv.org/) or [biorxiv](http://biorxiv.org/).
-  4. Post your data to an appropriate repository like [SRA](http://www.ncbi.nlm.nih.gov/sra) or a general purpose site like [figshare.](https://figshare.com/)
-  5. Send any software you develop to a controlled repository like](https://cran.r-project.org/) or [Bioconductor](http://bioconductor.org/).
+  5. Send any software you develop to a controlled repository like [CRAN](https://cran.r-project.org/) or [Bioconductor](http://bioconductor.org/).
   6. Participate in the [post publication discussion on Twitter and with a Blog](http://simplystatistics.org/2015/11/16/so-you-are-getting-crushed-on-the-internet-the-new-normal-for-academics/)
 
 This is also true of open science, open data sharing, reproducibility, replicability, post-publication peer review and all the other issues forming the "reproducibility crisis". There is a lot of attention and heat that has focused on the "crisis" or on folks who make a point to take a stand on reproducibility or open science or post publication review. But in the background, outside of the hype, there are a large group of people that are quietly executing solid, open, reproducible science.
 
 I wish that this group would get more attention so I decided to point out a few of them. Next time somebody asks me about the research on reproducibility or open science I'll just point them here and tell them to just follow the lead of people doing it.
 
-  * **Karl Broman** - posts all of his [talks online ](http://kbroman.org/pages/talks.html), generates many widely used [open source packages](http://kbroman.org/pages/software.html), writes [free/open tutorials](http://kbroman.org/pages/tutorials.html) on everything from knitr to making webpages, makes his [papers](http://www.ncbi.nlm.nih.gov/pubmed/26290572) highly [reproducible](https://github.com/kbroman/Paper_SampleMixups).
-  * **Jessica Li** - [posts her data online and writes open source software for her analyses](http://www.stat.ucla.edu/~jingyi.li/software-and-data.html).
-  * **Mark Robinson - **posts many of his papers as [preprints on biorxiv](http://biorxiv.org/search/author1%3Arobinson%252C%2Bmd%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard), makes his [analyses reproducible](https://github.com/markrobinsonuzh/diff_splice_paper), writes [open source software ](http://bioconductor.org/packages/release/bioc/html/Repitools.html)
-  * **Florian Markowetz -[ ](http://www.markowetzlab.org/software/)**[writes open source software](http://www.markowetzlab.org/software/), provides [Bioconductor data for major projects](http://www.markowetzlab.org/data.php), links [his papers with his code](http://www.markowetzlab.org/publications.php) nicely on his publications page.
-  * **Raphael Gottardo** - [writes/maintains many open source software packages](http://www.rglab.org/software.html), makes [his analyses reproducible and available via Github](https://github.com/RGLab/BNCResponse), posts [preprints of his papers](http://biorxiv.org/content/early/2015/06/15/020842).
-  * **Genevera Allen - **writes [Right now reproducibility, replicability, false positive rates, biases in methods, and other problems with science are the hot topic. As I mentioned in a previous post pointing out a flaw with a scientific study is way easier to do correctly than generating a new scientific study. Some folks have noticed that right now there is a huge market for papers pointing out how science is flawed. The combination of the relative ease of pointing out flaws and the huge payout for writing these papers is helping to generate the hype around the "reproducibility crisis".
-
-I [gave a talk](http://www.slideshare.net/jtleek/evidence-based-data-analysis-45800617) a little while ago at an NAS workshop where I stated that all the tools for reproducible research exist (the caveat being really large analyses - although that is changing as well). To make a paper completely reproducible, open, and available for post publication review you can use the following approach with no new tools/frameworks needed.
-
-  1. Use [Github ](https://github.com/)for version control.
-  2. Use [rmarkdown](http://rmarkdown.rstudio.com/) or [iPython notebooks](http://ipython.org/notebook.html) for your analysis code
-  3. When your paper is done post it to [arxiv](http://arxiv.org/) or [biorxiv](http://biorxiv.org/).
-  4. Post your data to an appropriate repository like [SRA](http://www.ncbi.nlm.nih.gov/sra) or a general purpose site like [figshare.](https://figshare.com/)
-  5. Send any software you develop to a controlled repository like [Right now reproducibility, replicability, false positive rates, biases in methods, and other problems with science are the hot topic. As I mentioned in a previous post pointing out a flaw with a scientific study is way easier to do correctly than generating a new scientific study. Some folks have noticed that right now there is a huge market for papers pointing out how science is flawed. The combination of the relative ease of pointing out flaws and the huge payout for writing these papers is helping to generate the hype around the "reproducibility crisis".
-
-I [gave a talk](http://www.slideshare.net/jtleek/evidence-based-data-analysis-45800617) a little while ago at an NAS workshop where I stated that all the tools for reproducible research exist (the caveat being really large analyses - although that is changing as well). To make a paper completely reproducible, open, and available for post publication review you can use the following approach with no new tools/frameworks needed.
-
-  1. Use [Github ](https://github.com/)for version control.
-  2. Use [rmarkdown](http://rmarkdown.rstudio.com/) or [iPython notebooks](http://ipython.org/notebook.html) for your analysis code
-  3. When your paper is done post it to [arxiv](http://arxiv.org/) or [biorxiv](http://biorxiv.org/).
-  4. Post your data to an appropriate repository like [SRA](http://www.ncbi.nlm.nih.gov/sra) or a general purpose site like [figshare.](https://figshare.com/)
-  5. Send any software you develop to a controlled repository like](https://cran.r-project.org/) or [Bioconductor](http://bioconductor.org/).
-  6. Participate in the [post publication discussion on Twitter and with a Blog](http://simplystatistics.org/2015/11/16/so-you-are-getting-crushed-on-the-internet-the-new-normal-for-academics/)
-
-This is also true of open science, open data sharing, reproducibility, replicability, post-publication peer review and all the other issues forming the "reproducibility crisis". There is a lot of attention and heat that has focused on the "crisis" or on folks who make a point to take a stand on reproducibility or open science or post publication review. But in the background, outside of the hype, there are a large group of people that are quietly executing solid, open, reproducible science.
-
-I wish that this group would get more attention so I decided to point out a few of them. Next time somebody asks me about the research on reproducibility or open science I'll just point them here and tell them to just follow the lead of people doing it.
 
   * **Karl Broman** - posts all of his [talks online ](http://kbroman.org/pages/talks.html), generates many widely used [open source packages](http://kbroman.org/pages/software.html), writes [free/open tutorials](http://kbroman.org/pages/tutorials.html) on everything from knitr to making webpages, makes his [papers](http://www.ncbi.nlm.nih.gov/pubmed/26290572) highly [reproducible](https://github.com/kbroman/Paper_SampleMixups).
   * **Jessica Li** - [posts her data online and writes open source software for her analyses](http://www.stat.ucla.edu/~jingyi.li/software-and-data.html).
