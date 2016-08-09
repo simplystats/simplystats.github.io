@@ -51,6 +51,6 @@ tags:
   </blockquote>
   
   <p>
-    NB: Although I am joking in this post, I do think these fake journals and conferences are a very serious problem. The fact that they are still around means enough money (mostly taxpayer money) is being spent to keep them in business. If you want to learn more, t<a href="http://scholarlyoa.com/">his blog</a> does a good job on reporting on them and includes a <a href="http://scholarlyoa.com/publishers/">list of culprits.</a>
+    NB: Although I am joking in this post, I do think these fake journals and conferences are a very serious problem. The fact that they are still around means enough money (mostly taxpayer money) is being spent to keep them in business. If you want to learn more, <a href="http://scholarlyoa.com/">this blog</a> does a good job on reporting on them and includes a <a href="http://scholarlyoa.com/publishers/">list of culprits.</a>
   </p>
 </div>
