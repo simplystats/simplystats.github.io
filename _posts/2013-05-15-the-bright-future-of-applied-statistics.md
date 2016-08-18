@@ -25,7 +25,7 @@ In 2013, the Committee of Presidents of Statistical Societies (COPSS) celebrates
 
 
 When I was asked to contribute to this issue, titled Past, Present, and Future of Statistical Science, I contemplated my career while deciding what to write about. One aspect that stood out was how much I benefited from the right circumstances. I came to one clear conclusion: it is a great time to be an applied statistician. I decided to describe the aspects of my career that I have thoroughly enjoyed in the 
-_past_ and _present and explain why I this has led me to believe that the _is bright for applied statisticians_. 
+_past_ and _present_ and explain why I this has led me to believe that the _is bright for applied statisticians_. 
 
 
 I became an applied statistician while working with David Brillinger on my PhD thesis. When searching for an advisor I visited several professors and asked them about their interests. David asked me what I liked and all I came up with was "_I don't know. Music?_", to which he responded "_That's what we will work on_". Apart from the necessary theorems to get a PhD from the Statistics Department at Berkeley, my thesis summarized my collaborative work with researchers at the Center for New Music and Audio Technology. The work<br /> involved separating and parameterizing the harmonic and non-harmonic components of musical sound signals [<a href="#Xirizarry2001local">5</a>]. The sounds had been digitized into data. The work was indeed fun, but I also had my first glimpse into the incredible potential of statistics in a world becoming more and more data-driven. 
