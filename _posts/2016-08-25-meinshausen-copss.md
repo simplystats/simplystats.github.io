@@ -5,7 +5,7 @@ date: 2016-08-24
 title: Interview with COPSS award winner Nicolai Meinshausen.
 ---
 
-_Editor’s Note: We are again pleased to interview the COPSS President’s award winner. The COPSS Award is one of the most prestigious in statistics, sometimes called the Nobel Prize in statistics. This year the award went to Nicolai Meinshausen from ETH Zurich. He is known for his work in causality, high-dimensional statistics, and machien learning. Also see our past COPSS award interviews with [John Storey](http://simplystatistics.org/2015/08/25/interview-with-copss-award-winner-john-storey/) and [Martin Wainwright](http://simplystatistics.org/2014/08/18/interview-with-copss-award-winner-martin-wainright/)._
+_Editor’s Note: We are again pleased to interview the COPSS President’s award winner. The COPSS Award is one of the most prestigious in statistics, sometimes called the Nobel Prize in statistics. This year the award went to Nicolai Meinshausen from ETH Zurich. He is known for his work in causality, high-dimensional statistics, and machine learning. Also see our past COPSS award interviews with [John Storey](http://simplystatistics.org/2015/08/25/interview-with-copss-award-winner-john-storey/) and [Martin Wainwright](http://simplystatistics.org/2014/08/18/interview-with-copss-award-winner-martin-wainright/)._
 
 
 ![Nicolai Meinshausen](https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/meinshausen.png)
