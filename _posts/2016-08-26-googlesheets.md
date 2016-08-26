@@ -1,5 +1,9 @@
-# How to create a free distributed data collection "app" with R and Google Sheets
-jeff  
+---
+author: jeff
+layout: post
+comments: true
+title: How to create a free distributed data collection "app" with R and Google Sheets
+---
 
 Jenny Bryan, developer of the [google sheets R package](https://github.com/jennybc/googlesheets) [gave a talk](https://speakerdeck.com/jennybc/googlesheets-talk-at-user2015) at Use2015 about the package. 
 
