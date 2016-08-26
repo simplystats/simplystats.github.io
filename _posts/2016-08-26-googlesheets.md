@@ -5,7 +5,7 @@ comments: true
 title: How to create a free distributed data collection "app" with R and Google Sheets
 ---
 
-Jenny Bryan, developer of the [google sheets R package](https://github.com/jennybc/googlesheets) [gave a talk](https://speakerdeck.com/jennybc/googlesheets-talk-at-user2015) at Use2015 about the package. 
+[Jenny Bryan](http://www.stat.ubc.ca/~jenny/), developer of the [google sheets R package](https://github.com/jennybc/googlesheets),  [gave a talk](https://speakerdeck.com/jennybc/googlesheets-talk-at-user2015) at Use2015 about the package. 
 
 One of the things that got me most excited about the package was an example she gave in her talk of using the Google Sheets package for data collection at ultimate frisbee tournaments. One reason is that I used to play a little ultimate [back in the day](http://www.pbase.com/jmlane/image/76852417). 
 
