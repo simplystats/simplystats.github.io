@@ -69,7 +69,7 @@ Short answer: very little. I treat them as the same in this guide. Long answer: 
 
 ## How should I prepare during my senior year?
 
-##### Math
+### Math
 
 Good grades in math and statistics classes
 are almost a requirement. Good GRE scores help and you need to get a near perfect score in
@@ -88,7 +88,7 @@ what you learn in class and what you use in practice until much
 later. This is totally normal. 
 
 
-#### Programming
+### Programming
 
 You will be using a computer to analyze data. So knowing some
 programming is a must these days. At a minimum, take a basic
@@ -105,7 +105,7 @@ Knowing Linux/Unix is an advantage. If you have a Mac try to use the
 terminal as much as possible. On Windows get an emulator.
 
 
-#### Writing and Communicating
+### Writing and Communicating
 
 My biggest regret about my education is that, as a college student, I underestimating the importance
 of writing. To this day I am correcting that mistake.
