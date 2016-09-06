@@ -57,7 +57,7 @@ in Statistics and got a job in a Department of Biostatistics. So this
 guide focuses on Statistics/Biostatistics.
 
 Note that once you finish your PhD you have a chance to become a 
-postdoctoral fellow for a couple of years. By then you will have a
+postdoctoral fellow and further focus your training. By then you will have a
 much better idea of what you want to do and will have the opportunity
 to chose a lab that closely matches your interests.
 
