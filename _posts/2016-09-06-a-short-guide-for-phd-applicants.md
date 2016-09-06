@@ -18,7 +18,7 @@ and
 [here](http://simplystatistics.org/2015/11/09/biostatistics-its-not-what-you-think-it-is/), but
 I thought it would be useful to share short guide I put together based on my recent interactions.
 
-### It's OK to be confused
+## It's OK to be confused
 
 When I was a college senior I didn't really understand what Applied
 Statistics was nor did I understand what one does as a researcher in
@@ -31,14 +31,14 @@ experience than you. It might not make sense at first but I
 can tell today that I knew much less than I thought I did when I was 22. 
 
 
-### Should I even go to graduate school?
+## Should I even go to graduate school?
 
 Yes. An undergraduate degree in mathematics, statistics, engineering, or computer science
 provides a great background, but for a decent career in data analysis
 you need more training. You may be able to learn on the job, but note
 that a masters can be as short as a year.
 
-### A masters or a PhD?
+## A masters or a PhD?
 
 If you want a career in academia or as a researcher in industry or
 government you you need a PhD. In general, a PhD will 
@@ -48,7 +48,7 @@ to test out if this career is a good match for you. Many people do a
 masters before applying to PhD Programs. The rest of this guide
 focuses on those interested in a PhD.
 
-### What discipline?
+## What discipline?
 
 There are many disciplines that can lead you to a career in data
 science: Statistics, Biostatistics, Astronomy, Economics, Machine Learning, Computational
@@ -62,12 +62,12 @@ much better idea of what you want to do and will have the opportunity
 to chose a lab that closely matches your interests.
 
 
-### What is difference between Statistics and Biostatistics
+## What is difference between Statistics and Biostatistics
 
 Short answer: very little. I treat them as the same in this guide. Long answer: read
 [this](http://simplystatistics.org/2015/11/09/biostatistics-its-not-what-you-think-it-is/).
 
-### How should I prepare during my senior year?
+## How should I prepare during my senior year?
 
 ##### Math
 
@@ -121,7 +121,7 @@ involve a 50 minute talk as well as several conversations about your
 work and future plans. So communication skills are also a big plus. 
 
 
-### But wait, why so much math?
+## But wait, why so much math?
 
 The PhD curriculum is indeed math heavy. Faculty often debate the
 possibility of changing the curriculum. But regardless of 
