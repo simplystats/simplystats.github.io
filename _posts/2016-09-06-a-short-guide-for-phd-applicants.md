@@ -16,7 +16,7 @@ before, for example
 [here](http://simplystatistics.org/2015/02/18/navigating-big-data-careers-with-a-statistics-phd/)
 and
 [here](http://simplystatistics.org/2015/11/09/biostatistics-its-not-what-you-think-it-is/), but
-I thought it would be useful to share short guide I put together based on my recent interactions.
+I thought it would be useful to share this short guide I put together based on my recent interactions.
 
 ## It's OK to be confused
 
