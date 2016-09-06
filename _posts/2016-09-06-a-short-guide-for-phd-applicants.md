@@ -34,8 +34,8 @@ can tell today that I knew much less than I thought I did when I was 22.
 ## Should I even go to graduate school?
 
 Yes. An undergraduate degree in mathematics, statistics, engineering, or computer science
-provides a great background, but for a decent career in data analysis
-you need more training. You may be able to learn on the job, but note
+provides a great background, but some more training greatly increases
+your career options. You may be able to learn on the job, but note
 that a masters can be as short as a year.
 
 ## A masters or a PhD?
