@@ -87,6 +87,8 @@ eigenvalues and eigenvectors. You might not make the connection between
 what you learn in class and what you use in practice until much
 later. This is totally normal. 
 
+If you don't feel ready, consider doing a masters first. But also get
+a second opinion. You might be being to hard on yourself.
 
 ### Programming
 
