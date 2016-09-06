@@ -137,7 +137,7 @@ applied statistician you will learn data analysis via the
 apprenticeship model. You will learn the most, by far, during this
 stage. So be patient. Watch
 [these](https://www.youtube.com/watch?v=R37pbIySnjg)
-[two](https://www.youtube.com/watch?v=Bg21M2zwG9Q) Karate Kid scenes.
+[two](https://www.youtube.com/watch?v=Bg21M2zwG9Q) Karate Kid scenes
 for some inspiration.
 
 
