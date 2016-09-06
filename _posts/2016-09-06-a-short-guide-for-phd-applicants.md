@@ -80,7 +80,7 @@ mathematical results. If you can't easily handle the math part of the GRE, this 
 quite challenging.
 
 When choosing classes note that the area of math most related to your
-Stat PhD courses is Real
+stat PhD courses is Real
 Analysis. The area of math most used in applied work is Linear
 Algebra, specifically matrix theory including understanding
 eigenvalues and eigenvectors. You might not make the connection between
