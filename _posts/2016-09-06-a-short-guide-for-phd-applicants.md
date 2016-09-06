@@ -153,6 +153,11 @@ motivates a subject area challenge in the abstract or introduction. A
 theory paper shows no data at all or uses it only as an example.
 
 
+## Can I take a year off?
+
+Absolutely. Especially if it's to work in a data related job. In
+general, maturity and life experiences are an advantage in grad school.
+
 ## What should I expect when I finish?
 
 You will have many many options. The demand of your expertise is
