@@ -88,7 +88,7 @@ what you learn in class and what you use in practice until much
 later. This is totally normal. 
 
 If you don't feel ready, consider doing a masters first. But also, get
-a second opinion. You might be being to hard on yourself.
+a second opinion. You might be being too hard on yourself.
 
 ### Programming
 
