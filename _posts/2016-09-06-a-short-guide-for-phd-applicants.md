@@ -1,7 +1,7 @@
 ---
 title: 'A Short Guide for Students Interested in a Statistics PhD Program'
 date: 2016-09-06
-author: Rafael Irizarry
+author: rafa
 comments: true
 layout: post
 categories:
