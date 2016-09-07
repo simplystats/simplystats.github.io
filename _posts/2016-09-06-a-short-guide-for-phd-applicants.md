@@ -41,7 +41,7 @@ that a masters can be as short as a year.
 ## A masters or a PhD?
 
 If you want a career in academia or as a researcher in industry or
-government you you need a PhD. In general, a PhD will 
+government you need a PhD. In general, a PhD will 
 give you more career options. If you want to become a data analyst or
 research assistant, a masters may be enough. A masters is also a good way
 to test out if this career is a good match for you. Many people do a
@@ -62,7 +62,7 @@ much better idea of what you want to do and will have the opportunity
 to chose a lab that closely matches your interests.
 
 
-## What is difference between Statistics and Biostatistics
+## What is the difference between Statistics and Biostatistics?
 
 Short answer: very little. I treat them as the same in this guide. Long answer: read
 [this](http://simplystatistics.org/2015/11/09/biostatistics-its-not-what-you-think-it-is/).
