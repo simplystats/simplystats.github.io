@@ -26,8 +26,8 @@ academia. Now I love being an academic doing research in applied statistics.
 But it is hard to understand what being a researcher is like until you do
 it for a while. Things become clearer as you gain more experience. One
 important piece of advice is 
-that you want to carefully consider advice from those with more
-experience than you. It might not make sense at first but I
+to carefully consider advice from those with more
+experience than you. It might not make sense at first, but I
 can tell today that I knew much less than I thought I did when I was 22. 
 
 
@@ -92,15 +92,15 @@ a second opinion. You might be being too hard on yourself.
 
 ### Programming
 
-You will be using a computer to analyze data. So knowing some
+You will be using a computer to analyze data so knowing some
 programming is a must these days. At a minimum, take a basic
-programming class. Other computer science class will help especially
+programming class. Other computer science classes will help especially
 if you go into an area dealing with large datasets. In hindsight, I
 wish I had taken classes on optimization and algorithm design. 
 
 Know that learning to program and learning a computer language are
 different things. You need to learn to program. The choice of language
-is up for debate. If you only learn one, learn R. If you learn three
+is up for debate. If you only learn one, learn R. If you learn three,
 learn R, Python and C++.
 
 Knowing Linux/Unix is an advantage. If you have a Mac try to use the
@@ -109,10 +109,10 @@ terminal as much as possible. On Windows get an emulator.
 
 ### Writing and Communicating
 
-My biggest regret about my education is that, as a college student, I underestimating the importance
+My biggest educational regret is that, as a college student, I underestimated the importance
 of writing. To this day I am correcting that mistake.
 
-Your success as researcher greatly depends on how well
+Your success as a researcher greatly depends on how well
 you write and communicate. Your thesis, papers, grant
 proposals and even emails have to be well written. So practice as much as
 possible. Take classes, read works by good writers, and
@@ -129,9 +129,9 @@ The PhD curriculum is indeed math heavy. Faculty often debate the
 possibility of changing the curriculum. But regardless of 
 differing opinions on what is the right amount, math is the
 foundation of our discipline. Although it is true that you will not
-directly use much of what you learn, I don't regret learning all the abstract
-math I learned because I think it shaped the way I think and attack
-problems in a positive way.
+directly use much of what you learn, I don't regret learning so much abstract
+math because I believe it positively shaped the way I think and attack
+problems.
 
 Note that after the first two years you are
 pretty much done with courses and you start on your research. If you work with an
