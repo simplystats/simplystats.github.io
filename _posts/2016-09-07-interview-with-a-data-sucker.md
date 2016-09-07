@@ -8,7 +8,6 @@ categories:
   - Open Science
 ---
 
-
 A few months ago Jill Sederstrom from ASH Clinical News interviewed
 me for [this article](http://ashclinicalnews.org/attack-of-the-data-suckers/) on the data sharing editorial published by the The New England Journal of Medicine (NEJM) and the debate it generated.
 The article presented a nice summary, but I thought the original
@@ -35,7 +34,7 @@ data facilitates the merging of datasets from different sources that
 allow discoveries not possible with just one study.
 
 Note that data sharing is not a radical idea. For example, thanks to
-an organization called [The MGED Soceity](http://fged.org/), most journals require all published
+an organization called [The MGED Soceity](http://fged.org), most journals require all published
 microarray gene expression data to be public in one of two
 repositories: GEO or ArrayExpress. This has been an incredible
 success, leading to new discoveries, new databases that combine
