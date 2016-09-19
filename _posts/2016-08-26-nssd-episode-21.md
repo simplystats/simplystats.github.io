@@ -1,11 +1,10 @@
 ---
 author: roger
 layout: post
-comments: true
-title: Not So Standard Deviations Episode 21 - This Might be the Future!
+title: Not So Standard Deviations Episode 22 - Number 1 Side Project
 ---
 
-Hilary and I are apart again and this time we're talking about political polling. Also, they discuss Trump’s tweets, and the fact that Hilary owns a bowling ball.
+Hilary and I celebrate our one year anniversary doing the podcast together by discussing whether there are cities that are good for data scientists, reproducible research, and professionalizing data science.
 
 Also, Hilary and I have just published a new book, [Conversations on Data Science](https://leanpub.com/conversationsondatascience?utm_source=SimplyStats&utm_campaign=NSSD&utm_medium=BlogPost), which collects some of our episodes in an easy-to-read format. The book is available from Leanpub and will be updated as we record more episodes. If you're new to the podcast, this is a good way to do some catching up!
 
@@ -20,22 +19,19 @@ Support us through our [Patreon page](https://www.patreon.com/NSSDeviations?ty=h
 
 Show Notes:
 
-* [FiveThirtyEight election dashboard](http://projects.fivethirtyeight.com/2016-election-forecast/)
+* [Roger’s reproducible research workshop](https://www.biostat.washington.edu/suminst/sisbid2016/modules/BD1603)
 
-* [The Upshot’s election dashboard](http://www.nytimes.com/interactive/2016/upshot/presidential-polls-forecast.html)
+* [There’s More Than One Kind of Data Scientist by Harlan Harris](http://radar.oreilly.com/2013/06/theres-more-than-one-kind-of-data-scientist.html)
 
-* [David Robinson’s post on Trump’s tweets](http://varianceexplained.org/r/trump-tweets/)
+* [Billionaire's row in San Francisco](http://sf.curbed.com/maps/mapping-the-10-sf-homes-with-the-highest-property-taxes)
 
-* [Julia Silge’s Twitter account](https://twitter.com/juliasilge)
+* [Mindfulness-based stress reduction](https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction)
 
-* [The Katering Show](http://thekateringshow.com)
-
-* [Omni](https://www.beomni.com)
+* [OSIRIS-REx](http://www.asteroidmission.org/)
 
 
-
-[Download the audio for this episode](https://soundcloud.com/nssd-podcast/episode-21-this-might-be-the-future).
+[Download the audio for this episode](https://soundcloud.com/nssd-podcast/episode-22-1-side-project).
 
 Listen here:
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/279922412&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/282927998&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
