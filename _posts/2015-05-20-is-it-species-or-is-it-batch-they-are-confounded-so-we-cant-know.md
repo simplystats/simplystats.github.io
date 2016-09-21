@@ -26,14 +26,14 @@ So [what is confounding](http://genomicsclass.github.io/book/pages/confounding.h
   * _X<sub>i</sub>_ to represent the gene expression measurements for human tissue _i,_
   * _a<sub>X</sub>_ to represent the level of expression that is specific to humans and
   * _b<sub>X</sub>_ to represent the batch effect introduced by the use of the human microarray platform.
-  * Therefore _X<sub>i</sub>_ =_a<sub>X </sub>_+ _b<sub>X </sub>_+ _e<sub>i,</sub>_with _e<sub>i </sub>_the tissue _i  _effect and other uninteresting sources of variability.
+  * Therefore _X<sub>i</sub>_ =_a<sub>X </sub>_+ _b<sub>X </sub>_+ _e<sub>i,</sub>_with _e<sub>i</sub>_ the tissue _i_ effect and other uninteresting sources of variability.
 
 Similarly, we will use:
 
   * _Y<sub>i</sub>_ to represent the measurements for mouse tissue _i_
   * _a<sub>Y</sub>_  to represent the mouse specific level and
   * _b<sub>Y</sub>_ the batch effect introduced by the use of the mouse microarray platform.
-  * Therefore _Y_<sub>i</sub> =_a<sub>Y </sub>_+ _b<sub>Y </sub>_+_f<sub>i,</sub>_with _f<sub>i </sub>_tissue _i  _effect and other uninteresting sources of variability.
+  * Therefore _Y_<sub>i</sub> = _a<sub>Y</sub>_+ _b<sub>Y</sub>_ + _f<sub>i</sub>_, with _f<sub>i</sub>_ tissue _i_ effect and other uninteresting sources of variability.
 
 If we are interested in estimating a species effect that is general across tissues, then we are interested in the following quantity:
 
@@ -41,10 +41,10 @@ If we are interested in estimating a species effect that is general across tissu
    <em>a<sub>Y</sub> - a<sub>X</sub></em>
 </p>
 
-Naively, we would think that we can estimate this quantity using the observed differences between the species that cancel out the tissue effect. We observe a difference for each tissue: _Y<sub>1 </sub>_ - _X<sub>1 </sub>_, _Y<sub>2</sub>_ - _X<sub>2 </sub>_, etc... The problem is that _a<sub>X </sub>_and _b<sub>X </sub>_are always together as are _a<sub>Y </sub>_and _b<sub>Y .</sub>_We say that the batch effect _b<sub>X </sub>_is **confounded** with the species effect _a<sub>X</sub>_. Therefore, on average, the observed differences include both the species and the batch effects. To estimate the difference above we would write a a model like this:
+Naively, we would think that we can estimate this quantity using the observed differences between the species that cancel out the tissue effect. We observe a difference for each tissue: _Y<sub>1 </sub>_ - _X<sub>1 </sub>_, _Y<sub>2</sub>_ - _X<sub>2 </sub>_, etc... The problem is that _a<sub>X </sub>_and _b<sub>X </sub>_are always together as are _a<sub>Y</sub>_ and _b<sub>Y</sub>_. We say that the batch effect _b<sub>X</sub>_ is **confounded** with the species effect _a<sub>X</sub>_. Therefore, on average, the observed differences include both the species and the batch effects. To estimate the difference above we would write a model like this:
 
 <p style="text-align: center;">
-  <em>Y<sub>i </sub></em> - <em>X<sub>i</sub></em> = (<em>a<sub>Y</sub> - a<sub>X</sub></em>) + (<em>b<sub>Y</sub> - b<sub>X</sub></em>) + other sources of variability
+  <em>Y<sub>i</sub></em> - <em>X<sub>i</sub></em> = (<em>a<sub>Y</sub> - a<sub>X</sub></em>) + (<em>b<sub>Y</sub> - b<sub>X</sub></em>) + other sources of variability
 </p>
 
 <p style="text-align: left;">
