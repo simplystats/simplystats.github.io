@@ -26,7 +26,7 @@ So [what is confounding](http://genomicsclass.github.io/book/pages/confounding.h
   * _X<sub>i</sub>_ to represent the gene expression measurements for human tissue _i,_
   * _a<sub>X</sub>_ to represent the level of expression that is specific to humans and
   * _b<sub>X</sub>_ to represent the batch effect introduced by the use of the human microarray platform.
-  * Therefore _X<sub>i</sub>_ =_a<sub>X </sub>_+ _b<sub>X </sub>_+ _e<sub>i,</sub>_with _e<sub>i</sub>_ the tissue _i_ effect and other uninteresting sources of variability.
+  * Therefore _X<sub>i</sub>_ =_a<sub>X </sub>_+ _b<sub>X </sub>_+ _e<sub>i</sub>_, with _e<sub>i</sub>_ the tissue _i_ effect and other uninteresting sources of variability.
 
 Similarly, we will use:
 
