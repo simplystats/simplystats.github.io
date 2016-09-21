@@ -41,7 +41,7 @@ If we are interested in estimating a species effect that is general across tissu
    <em>a<sub>Y</sub> - a<sub>X</sub></em>
 </p>
 
-Naively, we would think that we can estimate this quantity using the observed differences between the species that cancel out the tissue effect. We observe a difference for each tissue: _Y<sub>1 </sub>_ - _X<sub>1 </sub>_, _Y<sub>2</sub>_ - _X<sub>2 </sub>_, etc... The problem is that _a<sub>X </sub>_and _b<sub>X </sub>_are always together as are _a<sub>Y</sub>_ and _b<sub>Y</sub>_. We say that the batch effect _b<sub>X</sub>_ is **confounded** with the species effect _a<sub>X</sub>_. Therefore, on average, the observed differences include both the species and the batch effects. To estimate the difference above we would write a model like this:
+Naively, we would think that we can estimate this quantity using the observed differences between the species that cancel out the tissue effect. We observe a difference for each tissue: _Y<sub>1 </sub>_ - _X<sub>1 </sub>_, _Y<sub>2</sub>_ - _X<sub>2 </sub>_, etc... The problem is that _a<sub>X</sub>_ and _b<sub>X</sub>_ are always together as are _a<sub>Y</sub>_ and _b<sub>Y</sub>_. We say that the batch effect _b<sub>X</sub>_ is **confounded** with the species effect _a<sub>X</sub>_. Therefore, on average, the observed differences include both the species and the batch effects. To estimate the difference above we would write a model like this:
 
 <p style="text-align: center;">
   <em>Y<sub>i</sub></em> - <em>X<sub>i</sub></em> = (<em>a<sub>Y</sub> - a<sub>X</sub></em>) + (<em>b<sub>Y</sub> - b<sub>X</sub></em>) + other sources of variability
