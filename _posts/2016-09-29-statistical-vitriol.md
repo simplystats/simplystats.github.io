@@ -30,7 +30,7 @@ I just recently had an experience where a very prominent paper hadn't made their
 
 The problem is that scientists see the attention the statisticians are calling down on them - primarily negative and often over-hyped. Then they get upset and call the statisticians/open scientists names, or push back on entirely sensible policies because they are worried about being humiliated or discredited. While I don't agree with that response, I also understand the feeling of "being under attack". I've had that happen to me too and it doesn't feel good. 
 
-So where do we go from here? How do we end statistical vitriol and make statistics a positive force? Here is my four part plan:
+So where do we go from here? How do we end statistical vitriol and make statistics a positive force? Here is my six part plan:
 
 1. We should create continuining education for senior scientists and physicians in statistical and open data thinking so people who never got that training can understand the unique requirements of a data rich scientific world. 
 2. We should encourage journals and funders to incorporate statisticians and computational scientists at the highest levels of influence so that they can drive policy that makes sense in this new data driven time. 
