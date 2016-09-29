@@ -2,6 +2,7 @@
 title: Statistical vitriol
 author: jeff
 layout: post
+comments: true
 ---
 
 Over the last few months there has been a lot of vitriol around statistical ideas. First there were [data parasites](http://www.nejm.org/doi/full/10.1056/NEJMe1516564) and then there were [methodological terrorists](https://www.dropbox.com/s/9zubbn9fyi1xjcu/Fiske%20presidential%20guest%20column_APS%20Observer_copy-edited.pdf). These epithets came from established scientists who have relatively little statistical training. There was the predictable backlash to these folks from their counterparties, typically statisticians or statistically trained folks who care about open source. 
