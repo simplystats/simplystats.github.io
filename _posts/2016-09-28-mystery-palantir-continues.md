@@ -12,7 +12,20 @@ Interestingly, the report indicates a statistical argument:
 
 > In one example cited by the Labor Department, Palantir reviewed a pool of more than 130 qualified applicants for the role of engineering intern. About 73 percent of applicants were Asian. The lawsuit, which covers Palantir's conduct between January 2010 and the present, said the company hired 17 non-Asian applicants and four Asians. "The likelihood that this result occurred according to chance is approximately one in a billion," said the lawsuit, which was filed with the department's Office of Administrative Law Judges.
 
-Note the use of the phrase "qualified applicants" in reference to the 130. Presumably, there was a screening process that removed "unqualified applicants" and that led us to 130. Of the 130, 73 were Asian, or about 56%. Presumably, there was a follow up selection process (interview, exam) that led to 4 Asians being hired out of 21 (about 19%). Clearly there's a difference between 19% and 56% but the reasons may not be nefarious. If you assume the number of Asians hired is proportional to the number in the qualified pool, then the p-value for the observed data is about 0.0006, which is not quite "1 in a billion" as the report claims. But my guess is the Labor Department has more than this test of binomial proportions in terms of evidence if they were to go through with a suit. 
+*Update: Thanks to David Robinson for point out that (a) I read the numbers incorrectly and (b) I should have used the hypergeometric distribution to account for the sampling without replacement. The paragraph below is corrected accordingly.*
+
+Note the use of the phrase "qualified applicants" in reference to the
+130. Presumably, there was a screening process that removed
+"unqualified applicants" and that led us to 130. Of the 130, 73% were
+Asian. Presumably, there was a follow up selection process (interview,
+exam) that led to 4 Asians being hired out of 21 (about 19%). Clearly
+there's a difference between 19% and 73% but the reasons may not be
+nefarious. If you assume the number of Asians hired is proportional to
+the number in the qualified pool, then the p-value for the observed
+data is about 10^-8^, which is not quite "1 in a billion" as the
+report claims but it's indeed small. But my guess is the Labor
+Department has more than this test of binomial proportions in terms of
+evidence if they were to go through with a suit.
 
 Alfred Lee from [The Information](http://go.theinformation.com/r958P12lLdw) reports that a mutual fund run by Valic sold their shares of Palantir for below the recent valuation:
 
