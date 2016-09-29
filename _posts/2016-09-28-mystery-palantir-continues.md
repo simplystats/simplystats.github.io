@@ -22,7 +22,7 @@ exam) that led to 4 Asians being hired out of 21 (about 19%). Clearly
 there's a difference between 19% and 73% but the reasons may not be
 nefarious. If you assume the number of Asians hired is proportional to
 the number in the qualified pool, then the p-value for the observed
-data is about 10^-8^, which is not quite "1 in a billion" as the
+data is about 10^-8, which is not quite "1 in a billion" as the
 report claims but it's indeed small. But my guess is the Labor
 Department has more than this test of binomial proportions in terms of
 evidence if they were to go through with a suit.
