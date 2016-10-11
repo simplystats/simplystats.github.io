@@ -2,7 +2,7 @@
 id: 1953
 title: The Care and Feeding of the Biostatistician
 date: 2013-10-08T10:33:10+00:00
-author: Roger Peng
+author: roger
 layout: post
 guid: http://simplystatistics.org/?p=1953
 permalink: /2013/10/08/the-care-and-feeding-of-the-biostatistician/
