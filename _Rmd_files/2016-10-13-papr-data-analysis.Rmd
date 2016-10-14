@@ -1,0 +1,21 @@
+---
+title: Does tindr for preprints work? An analysis of papr data
+author: jeff
+comments: true
+layout: post
+output: 
+  html_document: 
+    keep_md: yes
+---
+
+A few days ago I posted a little web app called [papr](jhubiostatistics.shinyapps.io/papr) I built using [Shiny](http://shiny.rstudio.com/). It was meant to mimic the functionality of the dating app Tindr, but for preprints. Basically you make a snap judgement on the accuracy and the interestingness of papers from [bioRxiv](http://biorxiv.org/). It was later improved on by Lucy and Nate to allow real swiping functionaliy. 
+
+```{r, echo=FALSE}
+dtoken = "~/Dropbox/Jeff/code/github/2016/papr/papr-drop.rds"
+files = 
+```
+
+```{r}
+
+```
+
