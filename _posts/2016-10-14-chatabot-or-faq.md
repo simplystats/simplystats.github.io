@@ -1,5 +1,5 @@
 ---
-title: Should I make a chatbot or a faq? 
+title: Should I make a chatbot or a better FAQ? 
 author: jeff
 layout: post
 comments: true
