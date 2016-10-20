@@ -6,7 +6,7 @@ comments: true
 ---
 
 _Editor's note: This is a guest post by 
-[Sean Kross](https://twitter.com/seankross). Sean is a software developer in the
+[Sean Kross](http://seankross.com/). Sean is a software developer in the
 Department of Biostatistcs at the Johns Hopkins Bloomberg School of Public 
 Health. Sean has contributed to several of our specializations including
 [Data Science](https://www.coursera.org/specializations/jhu-data-science),
