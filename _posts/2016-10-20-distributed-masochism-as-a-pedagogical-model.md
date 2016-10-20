@@ -7,7 +7,7 @@ comments: true
 
 _Editor's note: This is a guest post by 
 [Sean Kross](http://seankross.com/). Sean is a software developer in the
-Department of Biostatistcs at the Johns Hopkins Bloomberg School of Public 
+Department of Biostatistics at the Johns Hopkins Bloomberg School of Public 
 Health. Sean has contributed to several of our specializations including
 [Data Science](https://www.coursera.org/specializations/jhu-data-science),
 [Executive Data Science](https://www.coursera.org/specializations/executive-data-science),
@@ -28,7 +28,7 @@ that we're learning on the fly which is a style of teaching that we've practiced
 
 Jeff and I have come to realize that while building new courses with 
 technologies that are new to us we experience particular pains and frustrations
-which, when docuemted, become valuable learning resources for our students.
+which, when documented, become valuable learning resources for our students.
 This process of documenting new-tech-induced pain is only a preliminary step.
 When we actually launch classes either online or 
 in person our students run into new frustrations which we respond to with
@@ -36,7 +36,7 @@ changes to either documentation or course content. This process of quickly
 iterating on course material is especially enhanced in online courses where the
 time span for a course lasts a few weeks compared to a full semester, so kinks
 in the course are ironed out at a faster rate compared to traditional in-person
-courses. All of the material in our courses is open-source and availible on
+courses. All of the material in our courses is open-source and available on
 GitHub, and we teach our students how to use Git and GitHub.  We can take
 advantage of improvements and contributions the students think we should make
 to our courses through pull requests that we recieve. Student contributions 
@@ -53,8 +53,6 @@ instructors we've recently climbed a similar learning curve which makes it
 easier for us to help our students. We believe that this approach of teaching
 new technologies by allowing any student to contribute to open course material
 allows a course to rapidly adapt to students' needs and to the inevitable
-changes and upgrades that are made to new technologies. I'm extremely interested
-in communicating with anyone else who is using similar techniques, so if you're
-interested please contact me via Twitter
-(<a href="https://twitter.com/seankross">@seankross</a>)
-or send me an email: sean at seankross.com.
+changes and upgrades that are made to new technologies. 
+
+I'm extremely interested in communicating with anyone else who is using similar techniques, so if you're interested please contact me via Twitter (<a href="https://twitter.com/seankross">@seankross</a>) or send me an email: sean at seankross.com.
