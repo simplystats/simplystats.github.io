@@ -27,4 +27,4 @@ While the pundits were claiming the race was a &#8220;dead heat&#8221;, the day 
 
 **Update 2**: New plot with data from <a href="http://www.foxnews.com/politics/elections/2012-election-results/" target="_blank">here</a>. Old graph <a href="http://rafalab.jhsph.edu/simplystats/silver.png" target="_blank">here</a>.
 
-<a href="http://rafalab.jhsph.edu/simplystats/silver2.png" target="_blank"><img height="500" src="http://rafalab.jhsph.edu/simplystats/silver2.png" width="500" /></a>
+<a href="https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/silver3.png" target="_blank"><img height="500" src="https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/silver3.png" width="500" /></a>
