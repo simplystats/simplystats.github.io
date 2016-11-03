@@ -25,6 +25,6 @@ While the pundits were claiming the race was a &#8220;dead heat&#8221;, the day 
 
 **Update****: **Congratulations also to Sam Wang (<a href="http://election.princeton.edu/" target="_blank">Princeton Election Consortium</a>) and Simon Jackman (<a href="http://www.huffingtonpost.com/simon-jackman/pollster-predictions_b_2081013.html" target="_blank">pollster</a>) that also called the election perfectly. And thanks to the pollsters that provided the unbiased (on average) data used by all these folks. Data analysts won &#8220;experts&#8221; lost.
 
-**Update 2**: New plot with data from <a href="http://www.foxnews.com/politics/elections/2012-election-results/" target="_blank">here</a>. Old graph <a href="http://rafalab.jhsph.edu/simplystats/silver.png" target="_blank">here</a>.
+~~**Update 2**: New plot with data from <a href="http://www.foxnews.com/politics/elections/2012-election-results/" target="_blank">here</a>. Old graph <a href="http://rafalab.jhsph.edu/simplystats/silver.png" target="_blank">here</a>.~~
 
 <a href="https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/silver3.png" target="_blank"><img height="500" src="https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/silver3.png" width="500" /></a>
