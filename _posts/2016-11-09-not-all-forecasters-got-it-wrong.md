@@ -35,7 +35,9 @@ giving Trump between 14% and 0.1% chances of winning, 538 gave
 him about a 
 30% chance which is slightly more than what a team has when down 3-2
 in the World Series. In contrast, in 2012 538 gave Romney only a 9%
-chance of winning. 
+chance of winning. Also, remember, if in ten election cycles you
+call it for someone with a 70% chance, you will should get it wrong 3
+times. If you get it right every time then your 70% statement was wrong.
 
 So how did 538 outperform all other forecasters? First, as far as I
 can tell they model the possibility of an overall bias that affects
