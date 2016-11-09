@@ -59,7 +59,7 @@ where able to predict a systematic, not random, bias against
 Trump. You can see this by 
 comparing their adjusted data to the raw data (the adjustment favored
 Trump about 1.5 on average). We can clearly see this when comparing the 538
-estimates to The Upshots:
+estimates to The Upshots':
 
 
 ![538-2016-election](https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/us-election-2016-538-v-upshot.png)
