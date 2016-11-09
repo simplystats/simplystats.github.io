@@ -30,7 +30,7 @@ with a confidence/credible interval of about 5%.
 This too was an accurate
 prediction since Clinton is going to win the popular vote by
 about 0.5% (note this final result is in the margin of error of
-several traditional polls). Finally, when other forecasters were
+several traditional polls as well). Finally, when other forecasters were
 giving Trump between 14% and 0.1% chances of winning, 538 gave
 him about a 
 30% chance which is slightly more than what a team has when down 3-2
