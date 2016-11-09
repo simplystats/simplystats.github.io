@@ -1,6 +1,6 @@
 ---
 title: 'Not all forecaster got it wrong: Nate Silver does again (again)'
-date: 2016-09-07
+date: 2016-11-08
 author: rafa
 layout: post
 comments: true
