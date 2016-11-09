@@ -16,7 +16,7 @@ out that not all forecasters got it wrong. Statistically
 speaking, Nate Silver, once again, got it right.
 
 To show this, below I include a plot showing the expected margin of
-victory versus the actual results for Clinton for the most competitive states provided by 538. It includes the uncertainty bands provided by 538 in
+victory for Clinton versus the actual results for the most competitive states provided by 538. It includes the uncertainty bands provided by 538 in
 [this site](http://projects.fivethirtyeight.com/2016-election-forecast/)
 (I eyeballed the band sizes to make the plot in R, so they are not
 exactly like 538's). 
