@@ -55,7 +55,7 @@ their simulations account for the strong correlation you will see
 across states: the chance of seeing an upset in Pennsylvania, Wisconsin,
 and Michigan is **not** the product of an upset in each. In
 fact it's much higher. Another advantage 538 had is that they somehow
-where able to predict a systematic, not random, bias against
+were able to predict a systematic, not random, bias against
 Trump. You can see this by 
 comparing their adjusted data to the raw data (the adjustment favored
 Trump about 1.5 on average). We can clearly see this when comparing the 538
