@@ -40,7 +40,8 @@ call it for someone with a 70% chance, you should get it wrong 3
 times. If you get it right every time then your 70% statement was wrong.
 
 So how did 538 outperform all other forecasters? First, as far as I
-can tell they model the possibility of an overall bias that affects
+can tell they model the possibility of an overall bias, modeled as a
+random effect, that affects
 every state. This bias can be introduced by systematic
 lying to pollsters or under sampling some group. Note that this bias
 can't be estimated from data from
@@ -54,7 +55,8 @@ their simulations account for the strong correlation you will see
 across states: the chance of seeing an upset in Pennsylvania, Wisconsin,
 and Michigan is **not** the product of an upset in each. In
 fact it's much higher. Another advantage 538 had is that they somehow
-where able to predict a bias against Trump. You can see this by
+where able to predict a systematic, not random, bias against
+Trump. You can see this by 
 comparing their adjusted data to the raw data (the adjustment favored
 Trump about 1.5 on average). We can clearly see this when comparing the 538
 estimates to The Upshots:
