@@ -1,5 +1,5 @@
 ---
-title: Not all forecaster got it wrong: Nate Silver does again (again)
+title: 'Not all forecaster got it wrong: Nate Silver does again (again)'
 date: 2016-09-07
 author: rafa
 layout: post
