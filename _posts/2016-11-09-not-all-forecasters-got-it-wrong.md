@@ -48,7 +48,7 @@ one election cycle but it's variability can be estimated from
 historical data. 538 appear
 to estimate the standard error of this term to be
 about 2%. More details on this are included [here](http://simplystatistics.org/html/midterm2012.html). In 2016 we saw this bias and you can see it in 
-the plot above (more points are above the line then below). The
+the plot above (more points are above the line than below). The
 confidence bands account for this source of variabilty and furthermore
 their simulations account for the strong correlation you will see
 across states: the chance of seeing an upset in Pennsylvania, Wisconsin,
