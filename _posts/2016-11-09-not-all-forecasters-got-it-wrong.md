@@ -71,6 +71,6 @@ and a deep understanding of the nuances related to the specific
 problem at hand. Nate Silver and the 538 team seem to understand this
 more than others.
 
-
-
+Update: Jason Merkin points out (via Twitter) that 538 provides 80% credible
+intervals.
 
