@@ -66,7 +66,7 @@ estimates to The Upshots':
 
 The fact that 538 did so much better than other forecasters should
 remind us how hard it is to do data analysis in real life. Knowing
-math, statistics and programming is not enough. It requires experiences
+math, statistics and programming is not enough. It requires experience
 and a deep understanding of the nuances related to the specific
 problem at hand. Nate Silver and the 538 team seem to understand this
 more than others.
