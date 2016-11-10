@@ -29,7 +29,7 @@ wrong. This is exactly what we expect since 15/16 is about
 with a confidence/credible interval of about 5%. 
 This too was an accurate
 prediction since Clinton is going to win the popular vote by
-about 0.5% (note this final result is in the margin of error of
+about 1% ~~0.5%~~ (note this final result is in the margin of error of
 several traditional polls as well). Finally, when other forecasters were
 giving Trump between 14% and 0.1% chances of winning, 538 gave
 him about a 
