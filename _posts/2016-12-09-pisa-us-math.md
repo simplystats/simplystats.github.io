@@ -44,7 +44,7 @@ the US is not performing exceptionally well in any subject:
 ![PISA 2015 Math versus average of science and reading](https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/pisa-2015-scatter.png)
 
 So what is going on? I'd love to read theories in the comment
-sections. From my experience comparing my kids' public schools now
+section. From my experience comparing my kids' public schools now
 with those that I attended, I have one theory of my own. When I was a
 kid there was a math textbook. Even when a teacher was bad, it
 provided structure and an organized alternative for learning on your
