@@ -70,7 +70,7 @@ education may have had its problems in the past, but recent evidence
 suggests that the reforms of the past few decades seem to have
 only worsened the situation.
 
-Note: To make these plots I download and read-in the data into R using as described [here](https://www.r-bloggers.com/pisa-2015-how-to-readprocessplot-the-data-with-r/)
+Note: To make these plots I download and read-in the data into R using as described [here](https://www.r-bloggers.com/pisa-2015-how-to-readprocessplot-the-data-with-r/).
 
 
 
