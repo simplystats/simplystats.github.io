@@ -23,7 +23,7 @@ in reading, sixth in science, but 20th in math, only ten points above
 the OECD average of 490. The US as a whole did not fair nearly as well
 as MA, and the same discrepancy between math and the other two
 subjects was present. In fact, among the top 30 performing
-countries ranked by their average of science and reading rankings, the
+countries ranked by their average of science and reading scores, the
 US has, by far, the largest discrepancy between math and 
 the other two subjects tested by PISA. The difference of 27 was
 substantially greater than the second largest difference, 
