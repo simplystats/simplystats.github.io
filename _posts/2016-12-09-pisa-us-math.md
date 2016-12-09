@@ -20,7 +20,7 @@ Assessment (PISA)
 show that there is a general problem with math education in the
 US. Were it a country, Massachusetts would have been in second place
 in reading, sixth in science, but 20th in math, only ten points above
-the OECD average of 490. The US as country did not fair nearly as well
+the OECD average of 490. The US as a whole did not fair nearly as well
 as MA, and the same discrepancy between math and the other two
 subjects was present. In fact, among the top 30 performing
 countries ranked by their average of science and reading rankings, the
