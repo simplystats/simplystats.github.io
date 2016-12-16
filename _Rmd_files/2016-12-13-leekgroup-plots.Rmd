@@ -1,0 +1,40 @@
+---
+title: "Leek group guide to making plots"
+output: html_document
+---
+
+I have written a few guides for people in academics including:
+
+* [How to write your first paper](https://github.com/jtleek/firstpaper)
+* [How to review a paper](https://github.com/jtleek/reviews)
+* [How to share data](https://github.com/jtleek/datasharing)
+* [How to write an R package](https://github.com/jtleek/rpackages)
+* [How to read academic papers](https://github.com/jtleek/readingpapers)
+
+The purpose of these guides has partially been for other people to use them outside of my research group. But the main driver has been having a set of tutorials that can be a sort of "onboarding" for new members of my research group. 
+
+Recently we had to work collectively on a project where multiple members were each sending in plots and I realized that they looked very different in aesthetic, color scheme, and organization. The result is that it was pretty hard to put the figures together in a paper. It also means that when we use each other's slides in talks there is no coherent pattern to what a plot will look like. 
+
+Other organizations - like [fivethirtyeight](http://fivethirtyeight.com/) have a consistent look and feel to their graphics. They do this (I imagine) largely as a defense mechanism - they have to produce plots every day! But I think that it also adds to the professionalism of the data analysis products they produce.
+
+I realized I would like my research group to have a similar type of professionalism to our plots since we regularly produce data products and have to illustrate scientific data. 
+
+This is a guide for how plots should be made in the Leek group. I hope it will evolve over time as members of the group weigh in on their opinions. There is a corresponding 
+
+*[Leek group plotting R package](link TBD) 
+
+that you can use to make plots like ours if you want to with both ggplot2 and base R plotting parameters set up. 
+
+## Expository versus exploratory graphs
+
+If you are analyzing data you make plots all of the time. This is part of the interactive data analysis workflow. When exploring data you should not spend time on how the plots look. They should be ugly and fast so you can quickly explore a data set. This guide does not apply to exploratory plots. 
+
+Expository plots are plots that we intend to distribute as part of a paper, blog post, or other communication of our results. Expository plots differ from exploratory plots because they are intended to communicate information to someone who is not you. The key principles behind Leek group expository plots are:
+
+(1) They communicate the answer to a specific scientific question
+(2) Each plot answers a single scientific question
+(3) Each plot will have a figure caption describing the key story in the plot
+(4) The figure and legend are sufficient to communicate a scientific message without the surrounding paper text. 
+(5) They have a consistent color theme, point type, and font. 
+
+Point (4) is directly related to the Leek group [guide to writing the first paper](https://github.com/jtleek/firstpaper)
