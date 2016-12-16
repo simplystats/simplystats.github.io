@@ -12,15 +12,13 @@ I'm the least efficient teacher in the world, probably because I'm very self con
 > 1. The age of Quetelet and his successors, in which huge census-level data
 sets were brought to bear on simple but important questions: Are there
 more male than female births? Is the rate of insanity rising?
-
-> 2. The classical period of Pearson, Fisher, Neyman, Hotelling, and their
+2. The classical period of Pearson, Fisher, Neyman, Hotelling, and their
 successors, intellectual giants who developed a theory of optimal inference
 capable of wringing every drop of information out of a scientific
 experiment. The questions dealt with still tended to be simple — Is treatment
 A better than treatment B? — but the new methods were suited to
 the kinds of small data sets individual scientists might collect.
-
-> 3. The era of scientific mass production, in which new technologies typi-
+3. The era of scientific mass production, in which new technologies typi-
 fied by the microarray allow a single team of scientists to produce data
 sets of a size Quetelet would envy. But now the flood of data is accompanied
 by a deluge of questions, perhaps thousands of estimates or
