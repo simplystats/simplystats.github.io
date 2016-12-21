@@ -41,7 +41,7 @@ _Editor's note: For the last few years I have made a list of awesome things that
 * Dorothy Bishop's blog is one of the ones I read super regularly. Her post on [When is a replication a replication](http://deevybee.blogspot.com/2016/12/when-is-replication-not-replication.html) is just one example of her very clearly explaining a complicated topic in a sensible way. I find that so hard to do and she does it so well. 
 * Ben Goldacre's crowd is doing a bunch of interesting things. I really like their [OpenPrescribing](https://openprescribing.net/) project. 
 * I'm really excited to see what Elizabeth Rhodes does with the experimental design for the [Ycombinator Basic Income Experiment](http://blog.ycombinator.com/moving-forward-on-basic-income/). 
-* Lucy D'agostino McGowen made this [amazing explanation](http://www.lucymcgowan.com/hill-for-data-scientists.html) of Hill's criterion using xckd. 
+* Lucy D'Agostino McGowan made this [amazing explanation](http://www.lucymcgowan.com/hill-for-data-scientists.html) of Hill's criterion using xckd. 
 * It is hard to overstate how good Leslie McClure's blog is. This post on [biostatistics is public health](https://statgirlblog.wordpress.com/2016/09/16/biostatistics-is-public-health/) should be read aloud at every SPH in the US. 
 * The ASA's [statement on p-values](http://amstat.tandfonline.com/doi/abs/10.1080/00031305.2016.1154108) is a really nice summary of all the issues around a surprisngly controversial topic. Ron Wasserstein and Nicole Lazar did a great job putting it together.
 * I really liked [this piece](http://jama.jamanetwork.com/article.aspx?articleId=2513561&guestAccessKey=4023ce75-d0fb-44de-bb6c-8a10a30a6173) on the relationship between income and life expectancy by Raj Chetty and company.
