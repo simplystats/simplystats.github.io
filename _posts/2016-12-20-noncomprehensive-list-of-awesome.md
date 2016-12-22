@@ -47,4 +47,4 @@ _Editor's note: For the last few years I have made a list of awesome things that
 * I really liked [this piece](http://jama.jamanetwork.com/article.aspx?articleId=2513561&guestAccessKey=4023ce75-d0fb-44de-bb6c-8a10a30a6173) on the relationship between income and life expectancy by Raj Chetty and company.
 * Christie Aschwanden continues to be the voice of reason on the [statistical crises in science](http://fivethirtyeight.com/features/failure-is-moving-science-forward/).
 
-That's all I have for now, I know I"m missing things. Maybe my New Year's resolution will be to keep better track of the awesome things other people are doing :). 
+That's all I have for now, I know I'm missing things. Maybe my New Year's resolution will be to keep better track of the awesome things other people are doing :). 
