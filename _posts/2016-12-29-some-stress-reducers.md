@@ -7,7 +7,7 @@ comments: true
 
 Being a scientist can be pretty stressful for any number of reasons, from the peer review process, to getting funding, to [getting blown up on the internet](http://simplystatistics.org/2015/11/16/so-you-are-getting-crushed-on-the-internet-the-new-normal-for-academics/). 
 
-Like a lot of academics I suffer from a lot of stress related to my own high standards and the imposter syndrome that comes from not meeting them on a regular basis. I was just reading through the excellent material in Lorena Baraba's class on [essential skills in reproducibility](https://barbagroup.github.io/essential_skills_RRC/) and came across this [set of slides](http://www.stat.berkeley.edu/~stark/Seminars/reproNE16.htm#1) by Phillip Stark. The one that caught my attention said: 
+Like a lot of academics I suffer from a lot of stress related to my own high standards and the imposter syndrome that comes from not meeting them on a regular basis. I was just reading through the excellent material in Lorena Barba's class on [essential skills in reproducibility](https://barbagroup.github.io/essential_skills_RRC/) and came across this [set of slides](http://www.stat.berkeley.edu/~stark/Seminars/reproNE16.htm#1) by Phillip Stark. The one that caught my attention said: 
 
 > If I say just trust me and I'm wrong, I'm untrustworthy.
 > If I say here's my work and it's wrong, I'm honest, human, and serving scientific progress.
