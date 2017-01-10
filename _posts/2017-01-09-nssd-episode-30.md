@@ -1,7 +1,7 @@
 ---
 author: roger
 layout: post
-title: Not So Standard Deviations Episode 3 - Philately and Numismatology
+title: Not So Standard Deviations Episode 30 - Philately and Numismatology
 ---
 
 Hilary and I follow up on open data and data sharing in government. They also discuss artificial intelligence, self-driving cars, and doing your taxes in R. 
