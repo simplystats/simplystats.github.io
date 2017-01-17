@@ -12,7 +12,7 @@ Al had some good bits of advice for academics and being successful in academia.
 
 On the slow rate of progress:
 
-> It took ten years, after we had seven randomized trials already to show that you get this 1/3 reduction in child mortality by giving them two cents worth of vitamin A twice a year. It took ten years to convince the child survival "Nawabs" of the world, and there are still some that don't believe it. 
+> It took ten years, after we had seven randomized trials already to show that you get this 1/3 reduction in child mortality by giving them two cents worth of vitamin A twice a year. It took ten years to convince the child survival Nawabs of the world, and there are still some that don't believe it. 
 
 On working overseas:
 
