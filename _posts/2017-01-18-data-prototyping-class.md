@@ -22,4 +22,4 @@ We are hoping to solicit a large number of projects and then build as many as po
 
 Students in the class will select projects they are interested in during early March. We will let you know if your idea was selected for the program by mid-March. If you aren't selected you will have the opportunity to roll your submission over to our next round of prototyping.  
 
-I'll be writing a separate post targeted at students, but if you are interested in being a data app prototyper, sign up here: http://jhudatascience.org/prototyping_students.html.
+I'll be writing a separate post targeted at students, but if you are interested in being a data app prototyper, sign up [here](http://jhudatascience.org/prototyping_students.html).
