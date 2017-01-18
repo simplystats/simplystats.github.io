@@ -7,7 +7,7 @@ comments: true
 
 ![Get your app built](https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/papr.png)
 
-Last fall we ran the first iteration of a class where we teach students to build data web-apps using Shiny, R, GoogleSheets and a number of other technologies. Our goals were to teach students to build data products, to reduce friction for students who want to build things with data, and to help people solve important data problems with web and SMS apps. 
+Last fall we ran the first iteration of a class at the [Johns Hopkins Data Science Lab](http://jhudatascience.org/) where we teach students to build data web-apps using Shiny, R, GoogleSheets and a number of other technologies. Our goals were to teach students to build data products, to reduce friction for students who want to build things with data, and to help people solve important data problems with web and SMS apps. 
 
 We are going to be running a second iteration of our program from March-June this year. We are looking for awesome projects for students to build that solve real world problems. We are particularly interested in projects that could have a positive impact on health but are open to any cool idea. We generally build apps that are useful for:
 
