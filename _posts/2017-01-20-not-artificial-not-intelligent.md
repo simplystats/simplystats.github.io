@@ -253,6 +253,10 @@ website would look "intelligent". I just uploaded pictures and it
 created an album for me with the pictures that I wanted. But the steps
 in the process were very simple and understandable behind the scenes.
 
+
+References
+-------------
+
 Leek, Jeffrey. n.d. “The Elements of Data Analytic Style.”
 [{https://leanpub.com/datastyle}]({https://leanpub.com/datastyle}).
 
