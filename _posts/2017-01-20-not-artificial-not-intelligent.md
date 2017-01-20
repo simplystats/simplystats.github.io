@@ -246,7 +246,7 @@ son and sends them off to be a Shutterfly album mailed to the authors'
 mother.
 
 ![Whoa that computer is smart - from the author's picture to grandma's
-hands!](images/ai-album.png)
+hands!]https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/_images/ai-album.png)
 
 If the algorithm was good, then from the perspective of the author the
 website would look "intelligent". I just uploaded pictures and it
