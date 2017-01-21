@@ -24,7 +24,7 @@ to make sure that the components of an AI are clear. We will start with
 a completely artificial example and then move to more complicated
 examples.
 
-Building a album
+Building an album
 ----------------
 
 Lets start with a very simple hypothetical example that can be
