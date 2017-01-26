@@ -1,5 +1,5 @@
 ---
-title: New class: Data App Prototyping for Public Health and Beyond
+title: New class - Data App Prototyping for Public Health and Beyond
 author: jeff
 layout: post
 comments: true
