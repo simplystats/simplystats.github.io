@@ -5,6 +5,9 @@ layout: post
 comments: true
 ---
 
+_Editor's note: This is the third chapter of a book I'm working on called [Demystifying Artificial Intelligence](https://leanpub.com/demystifyai/). The goal of the book is to demystify what modern AI is and does for a general audience. So something to smooth the transition between AI fiction and highly mathematical descriptions of deep learning. I'm developing the book over time - so if you buy the book on Leanpub know that there are only three chapters in there so far, but I'll be adding more over the next few weeks and you get free updates. The cover of the book was inspired by this [amazing tweet](https://twitter.com/notajf/status/795717253505413122) by Twitter user [@notajf](https://twitter.com/notajf/). Feedback is welcome and encouraged!_
+
+
 > "It is a capital mistake to theorize before one has data." Arthur Conan Doyle
 
 Data, data everywhere
