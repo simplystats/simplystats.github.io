@@ -37,7 +37,7 @@ The other approach is to use something like Skype and then use something like [e
 
 ## Editing Software
 
-There isn't a lot of software that's specifically designed for editing podcasts. I actually started off editing podcasts in Final Cut Pro X (nonlinear video editor) because that's what I was familiar with. But now I use [Logic Pro X](http://www.apple.com/logic-pro/), which is not really designed for podcasts, but it's a realy digital audio workstation and has nice features (like [strip silence](https://support.apple.com/kb/PH13055?locale=en_US)). But I think something like [Audacity](http://www.audacityteam.org) would be fine for basic editing.
+There isn't a lot of software that's specifically designed for editing podcasts. I actually started off editing podcasts in Final Cut Pro X (nonlinear video editor) because that's what I was familiar with. But now I use [Logic Pro X](http://www.apple.com/logic-pro/), which is not really designed for podcasts, but it's a real digital audio workstation and has nice features (like [strip silence](https://support.apple.com/kb/PH13055?locale=en_US)). But I think something like [Audacity](http://www.audacityteam.org) would be fine for basic editing.
 
 The main thing I need to do with editing is merge the different audio tracks together and cut off any extraneous material at the beginning or the end. I don't usually do a lot of editing in the middle unless there's a major mishap like a siren goes by or a cat jumps on the computer. Once the editing is done I bounce to an AAC or MP3 file for uploading.
 
