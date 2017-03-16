@@ -5,7 +5,7 @@ layout: post
 comments: true
 ---
 
-In a recent post, Nathan Yau [points to a comment](http://flowingdata.com/2013/03/12/data-hackathon-challenges-and-why-questions-are-important/) by Jake Porway about data science hackathons. They both say that for data science/visualization projects to be successful you have to start with an important question, not with a pile of data. This is the [problem forward not solution backward](http://simplystatistics.org/2013/05/29/what-statistics-should-do-about-big-data-problem-forward-not-solution-backward/) approach to data science and big data. 
+In a recent post, Nathan Yau [points to a comment](http://flowingdata.com/2013/03/12/data-hackathon-challenges-and-why-questions-are-important/) by Jake Porway about data science hackathons. They both say that for data science/visualization projects to be successful you have to start with an important question, not with a pile of data. This is the [problem forward not solution backward](http://simplystatistics.org/2013/05/29/what-statistics-should-do-about-big-data-problem-forward-not-solution-backward/) approach to data science and big data. This is the approach also advocated in the really nice piece on teaching data science by [Stephanie and Rafa](https://arxiv.org/abs/1612.07140)
 
 I have adopted a similar approach in the data science class here at Hopkins, largely inspired by Dan Meyer's [patient problem solving for middle school math class](https://www.ted.com/talks/dan_meyer_math_curriculum_makeover/transcript). So instead of giving students a full problem description I give them project suggestions like: 
 
