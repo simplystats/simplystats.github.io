@@ -33,4 +33,5 @@ I realize though that this is advanced data science. So I was thinking about the
 
 
 I think that a lot of the thought right now in biostatistics has been on level 3 and 4 courses. These are courses where we have students work with real data sets and learn about tools. To be self-sufficient as a data scientist it is clear you need to be able to work with real world data. 
-But what Jake/Nathan are referring to is level 5 or level 6 - cases where you have a question but the data needs a ton of work and may not even be good enough without collecting new information. If I had to predict the future of data courses I would see them trending in that direction. The ability to translate murkey questions into data answers is hugely valuable. 
+But what Jake/Nathan are referring to is level 5 or level 6 - cases where you have a question but the data needs a ton of work and may not even be good enough without collecting new information. Jake and Nathan have perfectly identified the ability to translate murkey questions into data answers as the most valuable data skill. If I had to predict the future of data courses I would see them trending in that direction.
+
