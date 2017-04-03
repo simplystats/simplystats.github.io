@@ -80,7 +80,7 @@ analysis is indispensible, as is the case in biomedical reserch, my
 focus area. In this field, data generators, which typically
 lead the scientific enterprise, are not always trained data
 analysts. But the literature is overflowing with proposed workflows.
-You can gauge the popularity of these by the vast number of
+You can gauge the popularity of these by the vast number
 published in the nature journals as demonstrated by this
 [google search](https://www.google.com/search?q=workflow+site:nature.com&biw=1706&bih=901&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3usL8-dDPAhUDMSYKHaBFBTAQ_AUIBigB#tbm=isch&q=analysis+workflow+site:nature.com):
 
