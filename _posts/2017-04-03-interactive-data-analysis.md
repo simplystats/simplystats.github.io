@@ -41,7 +41,7 @@ of 5.75 and with a 3 inch SD.
 
 
 Years of data analysis experience will show you that examples like this are
-common. Unfortunately, as data and analyses gets more complex workflow
+common. Unfortunately, as data and analyses get more complex workflow
 failures are harder to detect and often go unnoticed. An important
 principle many of us teach our trainees is to carefully check for
 hidden problems when data analysis leads you to unexpected results,
