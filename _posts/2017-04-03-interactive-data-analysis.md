@@ -111,7 +111,7 @@ before they are mature enough can have widespread negative
 consequences. And, at least in my experience, developing rigorous tools is 
 impossible without interactive data analysis. So I hope that this post
 helps make a case for the importance of interactive data analysis and
-that it continues to be a part of the scientific enterprise. 
+that it continues to be a part of the scientific enterprise.  
 
 
 
