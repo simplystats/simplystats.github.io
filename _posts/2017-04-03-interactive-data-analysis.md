@@ -66,7 +66,7 @@ concerned that perhaps the importance of IDA is not fully appreciated by decisio
 As an example consider the NIH efforts to promote data-driven discovery
 that center around plans for the
 [_Data Commons_](https://datascience.nih.gov/commons). The linked page
-describes an ecosystem with four compenents one of which is
+describes an ecosystem with four components one of which is
 "Software". According to the description, the software component of
 _The Commons_ should provide "[a]ccess to and deployment of scientific analysis
 tools and pipeline workflows". There is no mention of a strategy that
