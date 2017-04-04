@@ -75,7 +75,7 @@ raw data. Without this, carefully checking the workflow output and
 developing the analysis tools and pipeline workflows of the future
 will be difficult.
 
-I note tht data analysis workflows are very popular in fields in which data
+I note that data analysis workflows are very popular in fields in which data
 analysis is indispensible, as is the case in biomedical reserch, my
 focus area. In this field, data generators, which typically
 lead the scientific enterprise, are not always trained data
