@@ -88,7 +88,7 @@ published in the nature journals as demonstrated by this
 
 
 In a field in which data generators are not data analysis experts, the
-workflow as the added allure that it removes the need to think deeply about
+workflow has the added allure that it removes the need to think deeply about
 data analysis and instead shifts the responsibility to pre-approved
 software. Note that these workflows are not always described with the
 mathematical language or computer coded needed to truly understand it
