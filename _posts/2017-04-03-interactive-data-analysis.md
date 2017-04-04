@@ -60,7 +60,7 @@ numerous, many funding agencies, policy makers and industry leaders are
 advocating for using cloud computing to bring computing to the
 data. If done correctly, this would provide a great improvement over 
 the current redundant and unsystematic approach of everybody downloading data and working with it locally. However, after
-looking into the details of some of these plans I have become a bit
+looking into the details of some of these plans, I have become a bit
 concerned that perhaps the importance of IDA is not fully appreciated by decision makers.
 
 As example consider the NIH efforts to promote data-driven discovery
