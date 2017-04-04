@@ -56,7 +56,7 @@ workflows can't handle.
 
 So why I am concerned?
 As public datasets become larger and more
-numerous, many funding agency, policy makers and industry leaders are
+numerous, many funding agencies, policy makers and industry leaders are
 advocating for using cloud computing to bring computing to the
 data. If done correctly, this would provide a great improvement over 
 the current redundant and unsystematic approach of everybody downloading data and working with it locally. However, after
