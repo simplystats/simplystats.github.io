@@ -76,7 +76,7 @@ developing the analysis tools and pipeline workflows of the future
 will be difficult.
 
 I note that data analysis workflows are very popular in fields in which data
-analysis is indispensible, as is the case in biomedical reserch, my
+analysis is indispensible, as is the case in biomedical research, my
 focus area. In this field, data generators, which typically
 lead the scientific enterprise, are not always trained data
 analysts. But the literature is overflowing with proposed workflows.
