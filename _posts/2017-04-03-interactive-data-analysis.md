@@ -13,7 +13,7 @@ mindlessly applying a workflow can result in
 totally wrong conclusions if the required assumptions don't hold. 
 This is why successful data analysts rely heavily on interactive
 data analysis (IDA). I write today because I am somewhat
-concerned that the importance of IDE is not fully appreciated by many
+concerned that the importance of IDA is not fully appreciated by many
 of the policy makers and thought leaders that will influence how we
 access and work with data in the future.
 
@@ -21,7 +21,7 @@ I start by constructing a very simple example to illustrate the
 importance of IDA. Suppose that as
 part of a demographic study you are asked to summarize male heights
 across several counties. Since sample sizes are large and heights are
-known to be well approxiated by a normal distribution you feel
+known to be well approximated by a normal distribution you feel
 comfortable using a true and tested recipe: 
 report the average and standard deviation as a summary. You are
 surprised to find a county with average heights of 6.1 feet with a
