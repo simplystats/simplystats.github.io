@@ -6,7 +6,7 @@ layout: post
 comments: true
 ---
 
-This is a short open letter to those that believe scientists have a “liberal bias” and question their objectivity. I suspect that for many conservatives, this Saturday’s March for Science served as confirmation of this fact. In this post I will try to convince you that this is not the case specifically by pointing out how scientists' often annoy the left as much as the right.
+This is a short open letter to those that believe scientists have a “liberal bias” and question their objectivity. I suspect that for many conservatives, this Saturday’s March for Science served as confirmation of this fact. In this post I will try to convince you that this is not the case specifically by pointing out how scientists often annoy the left as much as the right.
 
 First, let me emphasize that scientists are highly appreciative of members of Congress and past administrations that have supported Science funding though the DoD, NIH and NSF. Although the current administration did propose a 20% cut to NIH, we are aware that, generally speaking, support for scientific research has traditionally been bipartisan. 
 
@@ -24,7 +24,7 @@ But scientists will also hold positions that are often criticized heavily by som
 3. Using nuclear energy to power our electrical grid is much less harmful than using natural gas, oil and coal and, currently, more viable than renewable energy.
 4. Alternative medicine, such as homeopathy, naturopathy, faith healing, reiki, and acupuncture, is pseudo-scientific quackery.
 
-The timing of the announcement of the March for Science, along with the organizers’ focus on environmental issues and diversity, may have made it seem like a partisan or left-leaning event, but please also note that many scientists [criticized]( https://www.nytimes.com/2017/01/31/opinion/a-scientists-march-on-washington-is-a-bad-idea.html) the organizers for this very reason and there was much debate in general. Most scientists I know that went to the march did so not necessarily because they are against republican administrations, but because they are legitimately concerned about some of the choices of this particular administration and the future of our country if we stop funding and trusting science. 
+The timing of the announcement of the March for Science, along with the organizers’ focus on environmental issues and diversity, may have made it seem like a partisan or left-leaning event, but please also note that many scientists [criticized]( https://www.nytimes.com/2017/01/31/opinion/a-scientists-march-on-washington-is-a-bad-idea.html) the organizers for this very reason and there was much debate in general. Most scientists I know that went to the march did so not necessarily because they are against Republican administrations, but because they are legitimately concerned about some of the choices of this particular administration and the future of our country if we stop funding and trusting science. 
 
 If you haven’t already seen this [Neil Degrasse Tyson video](https://www.youtube.com/watch?v=8MqTOEospfo) on the importance of Science to everyone, I highly recommend it.
 
