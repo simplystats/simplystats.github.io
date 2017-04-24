@@ -1,5 +1,5 @@
 ---
-title: Science really is non-partisan: facts and skepticism annoy everbody
+title: "Science really is non-partisan: facts and skepticism annoy everbody"
 date: 2017-04-24
 author: rafa
 layout: post
