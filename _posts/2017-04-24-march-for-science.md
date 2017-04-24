@@ -6,10 +6,9 @@ layout: post
 comments: true
 ---
 
-
 This is a short open letter to those that believe scientists have a “liberal bias” and question their objectivity. I suspect that for many conservatives, this Saturday’s March for Science served as confirmation of this fact. In this post I will try to convince you that this is not the case specifically by pointing out how scientists' often annoy the left as much as the right.
 
-First, let me emphasize that scientists are highly appreciative of members of Congress and past administrations that have supported Science funding though the DoD, NIH and NSF. Although the current administration did propose a 20% cut, we are aware that, generally speaking, support for scientific research has traditionally been bipartisan. 
+First, let me emphasize that scientists are highly appreciative of members of Congress and past administrations that have supported Science funding though the DoD, NIH and NSF. Although the current administration did propose a 20% cut to NIH, we are aware that, generally speaking, support for scientific research has traditionally been bipartisan. 
 
 It is true that the typical data-driven scientists will disagree, sometimes strongly, with many stances that are considered conservative. For example, most scientists will argue that:
 
