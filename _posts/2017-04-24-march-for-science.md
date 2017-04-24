@@ -5,13 +5,6 @@ author: rafa
 layout: post
 comments: true
 ---
----
-title: Science really is non-partisan: facts and skepticism annoy everbody
-date: 2017-04-24
-author: rafa
-layout: post
-comments: true
----
 
 
 This is a short open letter to those that believe scientists have a “liberal bias” and question their objectivity. I suspect that for many conservatives, this Saturday’s March for Science served as confirmation of this fact. In this post I will try to convince you that this is not the case specifically by pointing out how scientists' often annoy the left as much as the right.
