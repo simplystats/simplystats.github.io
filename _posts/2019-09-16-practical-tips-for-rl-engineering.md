@@ -1,6 +1,6 @@
 ---
-title: Example post
-author: jeff
+title: Practical tips for RL engineering
+author: ???
 layout: post
 comments: true
 ---
