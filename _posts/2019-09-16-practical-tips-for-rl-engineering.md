@@ -1,11 +1,11 @@
 ---
 title: Practical tips for RL engineering
-author: ???
+author: Jannes Klaas
 layout: post
 comments: true
 ---
 
-_Editor's note this is a guest post by ..._
+_Editor's note this is a guest post by Jannes Klaas_
 
 # Practical tips for RL engineering
 Learning from experiences and the associated rewards or punishments is the core idea behind **reinforcement learning** (**RL**). In RL, the model trains from experience rather than labeled data. Instead of providing the model with the correct actions, we provide it with rewards and punishments. The model receives information about the current state of the environment, for example, the computer game screen. It then outputs an action, such as a joystick movement. The environment reacts to this action and provides the next state, along with any rewards.
